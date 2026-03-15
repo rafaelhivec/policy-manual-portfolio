@@ -1,0 +1,3314 @@
+{
+  "meta": {
+    "title": "Personnel Policies and Procedures",
+    "subtitle": "Evergreen Mobility · Web viewer"
+  },
+  "toc": [
+    {
+      "id": "h-section-1",
+      "label": "SECTION 1",
+      "title": "General And Administration"
+    },
+    {
+      "id": "h-1-1",
+      "label": "1.1",
+      "title": "Introduction"
+    },
+    {
+      "id": "h-1-2",
+      "label": "1.2",
+      "title": "Purpose"
+    },
+    {
+      "id": "h-1-3",
+      "label": "1.3",
+      "title": "Definitions"
+    },
+    {
+      "id": "h-1-4",
+      "label": "1.4",
+      "title": "At-Will Employment"
+    },
+    {
+      "id": "h-section-2",
+      "label": "SECTION 2",
+      "title": "Standards Of Employment"
+    },
+    {
+      "id": "h-2-1",
+      "label": "2.1",
+      "title": "Employee Standards of Conduct"
+    },
+    {
+      "id": "h-2-2",
+      "label": "2.2",
+      "title": "Equal Opportunity in Employment"
+    },
+    {
+      "id": "h-2-3",
+      "label": "2.3",
+      "title": "Drug and Alcohol-Free Workplace"
+    },
+    {
+      "id": "h-2-4",
+      "label": "2.4",
+      "title": "Electronic Media"
+    },
+    {
+      "id": "h-2-5",
+      "label": "2.5",
+      "title": "Whistleblower Rights"
+    },
+    {
+      "id": "h-2-6",
+      "label": "2.6",
+      "title": "Safe Work Practices and Non-Violent Workplace"
+    },
+    {
+      "id": "h-section-3",
+      "label": "SECTION 3",
+      "title": "Recruitment And Selection"
+    },
+    {
+      "id": "h-3-1",
+      "label": "3.1",
+      "title": "Merit Service"
+    },
+    {
+      "id": "h-3-2",
+      "label": "3.2",
+      "title": "Recruitment and Application Process"
+    },
+    {
+      "id": "h-3-3",
+      "label": "3.3",
+      "title": "Selection"
+    },
+    {
+      "id": "h-3-4",
+      "label": "3.4",
+      "title": "Appointment"
+    },
+    {
+      "id": "h-3-5",
+      "label": "3.5",
+      "title": "Introductory Work Period"
+    },
+    {
+      "id": "h-3-6",
+      "label": "3.6",
+      "title": "Reemployment"
+    },
+    {
+      "id": "h-section-4",
+      "label": "SECTION 4",
+      "title": "Employment Practices"
+    },
+    {
+      "id": "h-4-1",
+      "label": "4.1",
+      "title": "Salary and Benefits Administration, and Classification Plan"
+    },
+    {
+      "id": "h-4-2",
+      "label": "4.2",
+      "title": "Work Hours, Work Schedules, and Overtime Practices"
+    },
+    {
+      "id": "h-4-3",
+      "label": "4.3",
+      "title": "Performance Planning and Review"
+    },
+    {
+      "id": "h-4-4",
+      "label": "4.4",
+      "title": "Employee Discipline"
+    },
+    {
+      "id": "h-4-5",
+      "label": "4.5",
+      "title": "Leaves of Absence"
+    },
+    {
+      "id": "h-4-6",
+      "label": "4.6",
+      "title": "Personnel Records and Files"
+    },
+    {
+      "id": "h-4-7",
+      "label": "4.7",
+      "title": "Grievance Procedure"
+    },
+    {
+      "id": "h-4-8",
+      "label": "4.8",
+      "title": "Reasonable Accommodation"
+    },
+    {
+      "id": "h-4-9",
+      "label": "4.9",
+      "title": "Employee Development and Training"
+    }
+  ],
+  "blocks": [
+    {
+      "kind": "major_heading",
+      "id": "h-section-1",
+      "label": "SECTION 1",
+      "title": "GENERAL AND ADMINISTRATION",
+      "level": 0
+    },
+    {
+      "kind": "heading",
+      "id": "h-1-1",
+      "sectionId": "h-section-1",
+      "label": "1.1",
+      "title": "Introduction",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3864703a7b",
+      "sectionId": "h-section-1",
+      "text": "The Evergreen Mobility Services develops, finances, plans, and provides local transit service in River County consistent with the overall the broader regional transit network. The Company may operate the local transit system or contract with any other public or private entity to operate all or part of the transit system including, but not limited to services, facilities, or equipment. Employees represent the Company and further the Company’s purpose when performing services. Company employees are an essential asset, and it is the desire of the Company to ensure employees are treated accordingly.",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ece8439087",
+      "sectionId": "h-section-1",
+      "text": "Evergreen Mobility Services’s enabling legislation requires the Company to adopt a Merit System with regard to personnel management ([applicable statute]). The Company established a Merit System by a Board resolution and authorized the General Manager to prepare or cause to be prepared a Manual of Personnel Policies and Procedures for the effective administration of personnel matters consistent with the Merit System.",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-2beb7bb093",
+      "sectionId": "h-section-1",
+      "text": "This Manual is intended to be consistent with applicable federal and state law. In the event of a conflict between this Manual and applicable law, the law shall control.",
+      "level": 1
+    },
+    {
+      "kind": "heading",
+      "id": "h-1-2",
+      "sectionId": "h-section-1",
+      "label": "1.2",
+      "title": "Purpose",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d775a27364",
+      "sectionId": "h-section-1",
+      "text": "The purpose of this Personnel Policies and Procedures Manual is to clearly articulate the desired practices of the Company and the responsibilities and rights of employees and managers in their employment with the Evergreen Mobility Services. It is intended to provide regulations and instruction for lawful and equitable personnel practices consistent with the Company’s Merit System and to provide direction and guidance for employment practices and requirements.",
+      "level": 1
+    },
+    {
+      "kind": "heading",
+      "id": "h-1-3",
+      "sectionId": "h-section-1",
+      "label": "1.3",
+      "title": "Definitions",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-1",
+      "sectionId": "h-section-1",
+      "label": "1.3.1",
+      "text": "Alternate Work Schedule:  An approved set work schedule different than the standard five days per week, eight hours per day schedule. Example: a “9/80” schedule in which the employee works nine workdays in a two-week period, nine hours for eight days and eight hours for one, for a total of 80 hours in a two-week period.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-2",
+      "sectionId": "h-section-1",
+      "label": "1.3.2",
+      "text": "Confidential Employee:   An employee who, in the course of their regular duties, has access to or possesses information relating to the Company’s administration of employer-employee relations, including but not limited to personnel management, salary strategies, or legal proceedings. These positions are designated as 'Confidential' by the Board of Directors and are not part of any general employee classification.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-3",
+      "sectionId": "h-section-1",
+      "label": "1.3.3",
+      "text": "Day:  Calendar day unless expressly stated otherwise.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-4",
+      "sectionId": "h-section-1",
+      "label": "1.3.4",
+      "text": "Demotion:  A change in status of an employee from a position in one classification to a position in another classification with lesser duties and responsibilities, lower qualifications, and a lower maximum salary.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-5",
+      "sectionId": "h-section-1",
+      "label": "1.3.5",
+      "text": "Employee:  A person employed by the Company. Independent contractors, elected officials, and volunteers are not employees of the Company.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-6",
+      "sectionId": "h-section-1",
+      "label": "1.3.6",
+      "text": "Employment Compensation Framework:  A document submitted by the General Manager to the Board of Directors recommending personnel policy issues involving financial commitments, such as establishing salary ranges, employee benefit programs, and Company contributions, staffing levels, and establishment of classifications. The Employment Compensation Framework may be modified as part of the annual budget process or as deemed necessary by the Board.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-7",
+      "sectionId": "h-section-1",
+      "label": "1.3.7",
+      "text": "Exempt Employee:  An employee who meets the applicable duties and salary basis tests for the executive, administrative, or professional exemptions under the Fair Labor Standards Act and applicable California law, and who is designated as exempt by the Company.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-8",
+      "sectionId": "h-section-1",
+      "label": "1.3.8",
+      "text": "Flexible Work Schedule:  An approved work schedule in which daily start and end times may vary.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-9",
+      "sectionId": "h-section-1",
+      "label": "1.3.9",
+      "text": "Layoff:  The separation of an employee from the active work force due to lack of work, lack of funds, organizational changes, or the abolition of a position.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-10",
+      "sectionId": "h-section-1",
+      "label": "1.3.10",
+      "text": "Manager or Management Employee:  An employee designated by the Board of Directors as having significant authority, in the interest of the Board, to formulate and effectuate Company policies, and who is substantially involved in hiring, discharging, evaluating, rewarding, and disciplining one or more employees or effectively recommends such decisions.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-11",
+      "sectionId": "h-section-1",
+      "label": "1.3.11",
+      "text": "Merit System:  The manner of hiring and promoting government employees based on their ability, education, experience, and job performance rather than their connections or other political factors -- one in which human resources activities are governed by uniform, job related, and impersonal policies and procedures.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-12",
+      "sectionId": "h-section-1",
+      "label": "1.3.12",
+      "text": "Paid Status:  The payment of an employee for a workday either because the employee worked the day or because the employee was on authorized paid leave.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-13",
+      "sectionId": "h-section-1",
+      "label": "1.3.13",
+      "text": "Promotion:  Advancement of an employee from a position in an established classification to a position in an established classification with higher level duties and responsibilities, higher qualifications, and a higher maximum salary.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-14",
+      "sectionId": "h-section-1",
+      "label": "1.3.14",
+      "text": "Qualified Individual with a Disability:  An individual with a physical or mental disability who is able to perform the essential functions of the position with or without reasonable accommodation, consistent with the California Fair Employment and Housing Act (FEHA).",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-15",
+      "sectionId": "h-section-1",
+      "label": "1.3.15",
+      "text": "Reasonable Accommodation:  A modification or adjustment to a job, an employment practice, or the work environment that makes it possible for a qualified individual with a disability to enjoy an equal employment opportunity. Examples may include acquiring or modifying equipment or devices; making facilities readily accessible; modifying work schedules. Reasonable accommodation also applies to ensure the safety of an employee at work who is the victim of domestic violence, sexual assault, or stalking. Reasonable accommodation also includes accommodation for sincerely held religious beliefs, observances, and practices, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-16",
+      "sectionId": "h-section-1",
+      "label": "1.3.16",
+      "text": "Interactive Process:  A timely, good-faith, ongoing communication between the Company and an employee or applicant who has a known physical or mental disability or religious belief to explore potential reasonable accommodations. This process is mandatory once a request for accommodation is made or the Company otherwise becomes aware of the potential need for an accommodation.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-17",
+      "sectionId": "h-section-1",
+      "label": "1.3.17",
+      "text": "Regular Employee:  A person employed by the Company full or part-time with no specific end date to the employment. Contract and temporary employees are not regular employees.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-18",
+      "sectionId": "h-section-1",
+      "label": "1.3.18",
+      "text": "Reinstatement:  The return of an employee to a classification in which the employee formerly served.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-19",
+      "sectionId": "h-section-1",
+      "label": "1.3.19",
+      "text": "Separation:  Any ending of employment with the Company.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-20",
+      "sectionId": "h-section-1",
+      "label": "1.3.20",
+      "text": "Temporary Employee:  A person employed by the Company in a position that is funded for a limited period of time, not to exceed one year.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-1-3-21",
+      "sectionId": "h-section-1",
+      "label": "1.3.21",
+      "text": "Transfer:  A change of an employee from one position to another in the same or similar classification.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-1-4",
+      "sectionId": "h-section-1",
+      "label": "1.4",
+      "title": "At-Will Employment",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-0a983c46bb",
+      "sectionId": "h-section-1",
+      "text": "The General Manager is employed pursuant to a contract and is governed by the terms thereof. Positions in the Director classification reporting directly to the General Manager are designated as at-will. Other Company employees may be designated as at-will employees by the General Manager, under appropriate circumstances. At-will employees do not acquire a property interest in their positions, and their employment may be terminated at any time, for any reason, and without any requirement of demonstrating cause. At-will employees have no right to appeal any discipline or termination.",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d3a23d0282",
+      "sectionId": "h-section-1",
+      "text": "Any designation of an at-will position shall be made in writing at the time of appointment and shall not apply retroactively.",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-267f4f5aad",
+      "sectionId": "h-section-1",
+      "text": "Nothing in this section alters the rights of employees who are not designated as at-will and who may have appeal or due process rights under the Company’s Merit System or applicable law.",
+      "level": 1
+    },
+    {
+      "kind": "major_heading",
+      "id": "h-section-2",
+      "label": "SECTION 2",
+      "title": "STANDARDS OF EMPLOYMENT",
+      "level": 0
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-1",
+      "sectionId": "h-section-2",
+      "label": "2.1",
+      "title": "Employee Standards of Conduct",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-1",
+      "sectionId": "h-section-2",
+      "label": "2.1.1",
+      "text": "Standard of Conduct Policy:  The Company has adopted a Standard of Conduct and Conflict of Interest Code. Employees should refer to this code for general standard of conduct requirements as well as information regarding exclusive service; outside employment; maintenance of confidential and/or privileged information; use of Company facilities or property; improper political activity; nepotism; anti-fraternization; and acceptance of gifts or other benefits. The Standard of Conduct and Conflict of Interest Code is hereby incorporated into this Personnel Policies and Procedures Manual and is attached, as adopted and amended by the Board of Directors in accordance with the applicable ethics and conflict-of-interest laws, applies to all employees as required.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-2",
+      "sectionId": "h-section-2",
+      "label": "2.1.2",
+      "text": "Workplace Grooming and Attire:  The Company maintains a professional working environment for the benefit of its employees and the public. As public employees and representatives of the Company, each employee will present  themselves in a neat and clean manner and in professional attire appropriate to the job assignment. Dress and grooming standards will be applied in a manner consistent with applicable law, including protections for gender identity, gender expression and religious dress and grooming practices, and traits historically associated with race, such as hair texture and protective hairstyles (including, but not limited to, braids, locks, and twists).",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-3",
+      "sectionId": "h-section-2",
+      "label": "2.1.3",
+      "text": "Smoke Free Workplace:  Smoking tobacco is prohibited in all Company offices and vehicles and is prohibited within 20 feet of the main exit, entrance, doorway, operable window of any Company building , consistent with California Labor Code 6404.5 and, as applicable, California Government Code §7597.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-4",
+      "sectionId": "h-section-2",
+      "label": "2.1.4",
+      "text": "Political Activity: Employees shall not engage in political activity during working hours, while in Company uniform, or while representing the Company, except as permitted by law.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-6424db1df5",
+      "sectionId": "h-section-2",
+      "text": "Nothing in this policy is intended to restrict lawful political activity conducted on the employee’s own time, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-5",
+      "sectionId": "h-section-2",
+      "label": "2.1.5",
+      "text": "Ethics and Public Stewardship: As a public agency, the Company is committed to ethical conduct, accountability, and stewardship of public resources. Employees are expected to perform their duties with integrity, professionalism, and respect for the public trust.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-6cb852ecb4",
+      "sectionId": "h-section-2",
+      "text": "Ethical obligations, including conflict of interest requirements, are governed by applicable law and the Company’s Standard of Conduct and Conflict of Interest Code.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-1-6",
+      "sectionId": "h-section-2",
+      "label": "2.1.6",
+      "text": "Nepotism: Employment decisions involving hiring, promotion, supervision, or discipline will not be influenced by family, domestic partnership, or close personal relationships.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-4c8005e836",
+      "sectionId": "h-section-2",
+      "text": "Employees may not directly or indirectly supervise, evaluate, or influence employment decisions involving a relative or domestic partner.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ebf56338de",
+      "sectionId": "h-section-2",
+      "text": "Questions regarding potential conflicts must be disclosed and reviewed by the General Manager or a Company human resources representative.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-2",
+      "sectionId": "h-section-2",
+      "label": "2.2",
+      "title": "Equal Opportunity in Employment",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-1",
+      "sectionId": "h-section-2",
+      "label": "2.2.1",
+      "text": "Purpose:  The purpose of this policy is to set forth the Evergreen Mobility Services’s commitment to equal opportunity in employment as well as services and to establish no tolerance for unlawful discrimination, harassment, or retaliation; to define these terms; and to identify the procedure for reporting, investigating and resolving complaints of discrimination, harassment, or retaliation. This policy is intended to comply with all applicable federal and state nondiscrimination and anti-harassment laws, including the California Fair Employment and Housing Act (FEHA).",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-2",
+      "sectionId": "h-section-2",
+      "label": "2.2.2",
+      "text": "Statement of Policy:  The Evergreen Mobility Services is committed to providing an environment that is free from discrimination and harassment of any kind, including sexual harassment and harassment or discrimination based on race; color; religion (including religious dress and grooming practices); national origin; ancestry; age; physical or mental disability; medical condition; genetic information; marital status; sex; gender; gender identity; gender expression;  sexual orientation; reproductive health decision-making; military or veteran status; or any other status protected by applicable law. Such discrimination and harassment, or retaliation against individuals who complain of illegal harassment or discrimination or who participate in an investigation into illegal harassment or discrimination will not be tolerated. All human resources’ functions will be administered in a manner that is equitable, respectful, and related to job performance.",
+      "level": 2
+    },
+    {
+      "kind": "subheading",
+      "id": "h-2-2-3",
+      "sectionId": "h-section-2",
+      "label": "2.2.3",
+      "title": "Definitions",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-3-a",
+      "sectionId": "h-section-2",
+      "label": "2.2.3.a",
+      "text": "Unlawful Discrimination:  Basing a term, condition, or privilege of employment on an individual’s actual or perceived race; color; religion (including religious dress and grooming practices); national origin; ancestry; age; physical or mental disability, medical condition, genetic information, marital status, sex, gender; gender identity; gender expression;  sexual orientation; reproductive health decision-making; military or veteran status; or any other status protected by law. Terms, conditions, and privileges of employment include recruitment, selection, testing, training, transfer, promotion, demotion, termination, performance appraisal, and compensation.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-3-b",
+      "sectionId": "h-section-2",
+      "label": "2.2.3.b",
+      "text": "Discriminatory Harassment:  Any form, or combination of verbal, physical, visual, written, or environmental conduct based on actual or perceived race; color; religion (including religious dress and grooming practices); national origin; ancestry; age; physical or mental disability; medical condition; genetic information; marital status; sex; gender; gender identity; gender expression; age,  sexual orientation, reproductive health decision-making; military or veteran status; or any other status protected by law. The conduct need not be specific or even directed at an individual. By definition, harassment, including sexual harassment, is not within the course and scope of an individual’s employment. Harassment includes any conduct that would be unwelcome to a reasonable person of the recipient’s same protected status and that is taken because of the recipient’s protected status. Lack of protestation or complaint is not to be construed to imply consent. Examples of discriminatory harassment include:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e1d1646206",
+      "sectionId": "h-section-2",
+      "text": "Verbal Misconduct:  Inappropriate or offensive or derogatory remarks, slurs, jokes, or innuendoes regarding an individuals’ body, sex, physical appearance, sexual prowess, pregnancy, sexual orientation, religion, race, gender identity, gender expression, or other protected status. Sexual harassment can occur between individuals of the same or different genders.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-bcc8bcf17d",
+      "sectionId": "h-section-2",
+      "text": "Physical Misconduct:  Inappropriate or offensive gestures, touching, assault, or physical interference with free movement directed at any individual on the basis of any status protected by this policy.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8dd4838a48",
+      "sectionId": "h-section-2",
+      "text": "Visual or Written Misconduct:  The display or circulation of offensive or derogatory visual or written material including posters, cartoons, drawings, reading materials, or electronic media transmissions related to any protected status.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b563a8eb9e",
+      "sectionId": "h-section-2",
+      "text": "Environmental Misconduct:  A work environment that contains an unwarranted focus of language, behavior, or visual or written material upon sexual, racial, religious, or any other status protected by this policy.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-3-c",
+      "sectionId": "h-section-2",
+      "label": "2.2.3.c",
+      "text": "Retaliation:  Any adverse employment action that is reasonably likely to prevent the complaining party or others from engaging in protected activity. Adverse employment actions include, for example, a decrease in pay, change of hours, or reduction in authority or responsibility. Adverse action can also include shunning, taking sides, spreading rumors, or threats of intimidation. Retaliation includes retaliation against individuals who complain of illegal harassment or discrimination or who participate in an investigation into illegal harassment or discrimination or who oppose conduct they reasonably believe to be unlawful, consistent with FEHA and CA Labor Code §1102.5.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-4",
+      "sectionId": "h-section-2",
+      "label": "2.2.4",
+      "text": "Reporting Unlawful Harassment, Discrimination, or Retaliation:  Any employee or applicant for employment who believes they have been unlawfully harassed, discriminated against, or retaliated against should promptly report it orally or in writing to the employee’s supervisor, a human resources representative, or the General Manager. Any supervisor or manager who receives such a complaint or who observes or otherwise learns about such conduct is required to notify a Company designated human resources representative or the General Manager immediately. Complaints may be made by the employee or by a witness. Anonymous complaints will be accepted to the extent practicable.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-5",
+      "sectionId": "h-section-2",
+      "label": "2.2.5",
+      "text": "Investigating and/or Responding to Complaints: Upon receiving a complaint of harassment, discrimination, or retaliation, the Company or its representative may undertake an investigation of the complaint. The Company will maintain confidentiality to the extent possible, consistent with a fair and thorough investigation and as required by law. If behavior is found to have occurred in violation of this policy, action will be taken to ensure or confirm that the conduct is stopped and will not reoccur. Employees are required to cooperate in and respond honestly to questions presented in any investigation.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-6",
+      "sectionId": "h-section-2",
+      "label": "2.2.6",
+      "text": "Management Responsibilities:  Management and supervisory employees are responsible for educating and holding employees accountable for adherence to this policy and for demonstrating commitment to and support of this policy. Upon becoming aware of a violation, regardless of whether the violation is by a direct subordinate, another employee, a member of the public, a contractor, an elected official, or a supplier, the manager will report the conduct to the General Manager immediately. Supervisors and managers are required by law to take immediate and appropriate corrective action upon learning of potential harassment or discrimination.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-7",
+      "sectionId": "h-section-2",
+      "label": "2.2.7",
+      "text": "Consequences of Violation of Policy:  Immediate and formal disciplinary action up to and including termination will be taken against any employee found to have engaged in conduct that constitutes employment discrimination, harassment, or retaliation.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-2-8",
+      "sectionId": "h-section-2",
+      "label": "2.2.8",
+      "text": "Complaint Resolution Procedure: Employees may report complaints of discrimination, harassment, or retaliation to any of the following: their supervisor, any management employee, a Company human resources representative, or the General Manager.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-c1c10d2433",
+      "sectionId": "h-section-2",
+      "text": "Complaints will be investigated promptly, thoroughly, and confidentially to the extent possible. Corrective action will be taken when warranted.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3424710e1f",
+      "sectionId": "h-section-2",
+      "text": "Employees may also file complaints with external agencies, including the California Civil Rights Department (CRD) and the Equal Employment Opportunity Commission (EEOC).",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-62e961748e",
+      "sectionId": "h-section-2",
+      "text": "Retaliation for making a complaint or participating in an investigation is prohibited.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-3",
+      "sectionId": "h-section-2",
+      "label": "2.3",
+      "title": "Drug and Alcohol-Free Workplace",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-3-1",
+      "sectionId": "h-section-2",
+      "label": "2.3.1",
+      "text": "Policy:  The purpose of this policy is to provide a safe and healthy workplace for all employees, to comply with federal and state regulations, and to prevent accidents. A safe and healthy workplace for all employees precludes the influence of impairing drugs and alcohol. The presence of alcohol and drugs on the job, and the influence of these substances on employees during working hours, is prohibited. Nothing in this policy is intended to prohibit lawful off-duty conduct protected under applicable law, except where such conduct is inconsistent with federal requirements, safety-sensitive positions, or other legally permitted exceptions.",
+      "level": 2
+    },
+    {
+      "kind": "subheading",
+      "id": "h-2-3-2",
+      "sectionId": "h-section-2",
+      "label": "2.3.2",
+      "title": "Notification to Company Employees",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8191f44a1a",
+      "sectionId": "h-section-2",
+      "text": "The unlawful manufacture, distribution, dispensing, possession, or use of a controlled substance is prohibited in the workplace.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-366f599208",
+      "sectionId": "h-section-2",
+      "text": "As a condition of employment, employees must abide by the terms of this policy.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8468dac039",
+      "sectionId": "h-section-2",
+      "text": "As a condition of employment, employees must notify the Company, within five calendar days, if convicted of a criminal drug violation in the workplace.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-02f717e93e",
+      "sectionId": "h-section-2",
+      "text": "This policy is intended to comply with the federal Drug-Free Workplace Act of 1988 and applicable California law, including amendments addressing off-duty cannabis use. Employees in safety-sensitive positions or positions subject to federal drug-testing requirements, including U.S. Department of Transportation regulations, are subject to applicable federal standards notwithstanding California law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-3-3",
+      "sectionId": "h-section-2",
+      "label": "2.3.3",
+      "text": "Drug and Alcohol Testing Policy:  The Company has adopted a Drug and Alcohol Testing Policy. Employees should refer to this policy for additional information on the Company’s drug and alcohol testing requirements. The Drug and Alcohol Testing Policy is hereby incorporated into this Personnel Policies and Procedures Manual,   as adopted and amended by the Board of Directors in accordance with applicable federal and state law, applies to covered employees.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-4",
+      "sectionId": "h-section-2",
+      "label": "2.4",
+      "title": "Electronic Media",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-4-1",
+      "sectionId": "h-section-2",
+      "label": "2.4.1",
+      "text": "Usage and Public Purpose:  Computer hardware and software, and electronic communication and data processing devices are the property of the Company provided for the purpose of conducting Company business. All such electronic media, including but not limited to e-mail, voicemail, internet, intranet, calendaring systems, computers and computer programs, cell phones, and all messages and information contained therein may be public records subject to disclosure to the public or to subpoena in accordance with the California Public Records Act and other applicable law. Except for brief, occasional necessary or emergency use, the electronic systems are not to be utilized for personal use or to conduct personal or private business. Employees must comply with all operational guidelines such as records retention schedules, back-up procedures, use of passwords, and confidentiality.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-4-2",
+      "sectionId": "h-section-2",
+      "label": "2.4.2",
+      "text": "No Right to Privacy:  Employees who use electronic systems and tools provided by the Company will have no right or expectation of privacy in such use. The General Manager or his/her designee has the right to enter, search, monitor, and retrieve an employee’s electronic communications, data files, logs, computers and other electronic devices, and programs from these systems at any time without notice for legitimate Company business purposes and in accordance with applicable law. Security features such as passwords, access codes, and delete functions do not prevent authorized employees from accessing electronic communications and devices.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-4-3",
+      "sectionId": "h-section-2",
+      "label": "2.4.3",
+      "text": "Prohibited Use:  Employees shall not install non-Company owned programs on any computer, electronic device, or on the computer system or copy Company-owned programs for personal use. Employees shall not use the system for political purposes in violation of law, commercial activities, or to download music or other programs for personal use. Employees will refrain from using the computer and data systems in any way that may be disruptive, offensive to others, harmful to morale, constitute unlawful harassment or discrimination, or violate any other Company policies or laws.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-4-4",
+      "sectionId": "h-section-2",
+      "label": "2.4.4",
+      "text": "Use of Personal Devices: Company business conducted on personal electronic devices may be subject to public records disclosure and legal discovery obligations.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-c35818cc42",
+      "sectionId": "h-section-2",
+      "text": "Employees who use personal devices for Company business must comply with records retention, confidentiality, and disclosure requirements.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-5",
+      "sectionId": "h-section-2",
+      "label": "2.5",
+      "title": "Whistleblower Rights",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-6c80f355d8",
+      "sectionId": "h-section-2",
+      "text": "Company employees or applicants for employment are entitled to disclose to the Company, without reprisal, facts that may be deemed to constitute gross mismanagement, significant waste of public funds, abuse of authority, and/or substantial and specific danger to public health or safety.\tEmployees and applicants are protected from retaliation for disclosing information to a government or law enforcement agency, to a person with authority over the employee, or to another employee with authority to investigate, discover, or correct the violation, where the employee has reasonable cause to believe the information discloses a violation of state or federal law, rule, or regulation.",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-5-1",
+      "sectionId": "h-section-2",
+      "label": "2.5.1",
+      "text": "Disclosure Procedure:  Any Company employee or applicant for employment with information that may be considered gross mismanagement, a significant waste of funds, an abuse of authority, and/or substantial and specific danger to public health or safety may report such information orally or in writing, and no specific form, oath, or filing deadline is required to receive whistleblower protection.. If the complaint involves conduct of the General Manager, the statement may be directed to the President of the Company Board of Directors. The Company encourages employees to provide sufficient information to allow for appropriate review or investigation, but failure to comply with procedural requirements will not defeat statutory whistleblower protections.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-5-2",
+      "sectionId": "h-section-2",
+      "label": "2.5.2",
+      "text": "Company Investigation:  Within twenty-one calendar days of receipt of the written statement of facts, the General Manager, or Board President if the complaint is about the conduct of the General Manager, will investigate the complaint, may confer with the complainant, determine appropriate action to solve the problem, if any, and will render a decision in writing. Nothing in this policy limits an employee’s right to pursue remedies available under state or federal law, including but not limited to Labor Code section 1102.5.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-5-3",
+      "sectionId": "h-section-2",
+      "label": "2.5.3",
+      "text": "Confidentiality:  Nothing contained in this policy will be deemed to make any record public if the record is preempted from disclosure by Government Code Section 6254, or to require a public hearing or meeting that could otherwise be conducted as a closed session pursuant to Government Code Section 54956. The Company will make reasonable efforts to maintain confidentiality to the extent permitted by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-5-4",
+      "sectionId": "h-section-2",
+      "label": "2.5.4",
+      "text": "No Reprisals:  Retaliation against an employee or applicant for engaging in protected whistleblower activity is prohibited by law, including Labor Code section 1102.5, and may result in disciplinary action up to and including termination.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-2-6",
+      "sectionId": "h-section-2",
+      "label": "2.6",
+      "title": "Safe Work Practices and Non-Violent Workplace",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-1",
+      "sectionId": "h-section-2",
+      "label": "2.6.1",
+      "text": "Safe Work Practices:  The Company is committed to providing a safe work environment. Employees are expected to obey safety rules and follow safe work practices including use of ergonomic and other safety equipment. Nothing in this policy limits an employee’s right to report workplace safety concerns under California occupational safety and health laws.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-2",
+      "sectionId": "h-section-2",
+      "label": "2.6.2",
+      "text": "Report of Unsafe Conditions:  Employees are expected to report any unsafe conditions or workplace hazards to their supervisor. Supervisors and managers will take all appropriate steps to identify, evaluate, and mitigate unsafe conditions or workplace hazards and train employees on safe work practices. Employees may also report workplace hazards or safety concerns to Human Resources or to appropriate government agencies without fear of retaliation, as permitted by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-3",
+      "sectionId": "h-section-2",
+      "label": "2.6.3",
+      "text": "Reporting Injuries:  Work-related injuries should be reported to the employee’s supervisor immediately. The supervisor will notify the Company’s human resources representative as soon as possible. Appropriate medical attention will be obtained if required through the employee’s medical provider if previously designated. Worker’s compensation insurance forms will be provided and shall be completed pursuant to policy 4.1.8 below.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-4",
+      "sectionId": "h-section-2",
+      "label": "2.6.4",
+      "text": "Non-Violent Workplace: The Company maintains a Workplace Violence Prevention Plan (AD 07) in compliance with California Labor Code section 6401.9. The Plan is incorporated by reference and applies to all employees.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-5",
+      "sectionId": "h-section-2",
+      "label": "2.6.5",
+      "text": "Procedure for Concern of Future Violence:  Employees who have reason to believe they or another employee may be victimized by a violent act at the workplace sometime in the future must inform their supervisor so appropriate action may be taken. If an employee has signed and filed a restraining order against an individual who would be in violation of the order by coming near them at work, the employee shall immediately supply a copy of the signed order to their supervisor. The supervisor will provide the order to a Company human resources representative. Appropriate Company precautionary action will be developed in consultation with the employee. Under applicable law, the Company may seek a temporary restraining order on behalf of an employee who has suffered violence or a credible threat of violence in the workplace. Nothing in this section limits an employee’s right to report concerns directly under the Workplace Violence Prevention Plan or to seek emergency assistance when appropriate.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-6",
+      "sectionId": "h-section-2",
+      "label": "2.6.6",
+      "text": "Workplace Violence Prevention: The Company is committed to maintaining a workplace free from violence, threats, intimidation, and harassment. The Company has adopted a Workplace Violence Prevention Plan in compliance with California Labor Code section 6401.9. All employees are required to comply with the Workplace Violence Prevention Plan, participate in required training, promptly report incidents or concerns, and cooperate in investigations. No employee will be retaliated against for reporting workplace violence concerns or participating in related investigations. The Workplace Violence Prevention Plan is incorporated by reference and maintained separately.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-7",
+      "sectionId": "h-section-2",
+      "label": "2.6.7",
+      "text": "Communicable Disease and Public Health Safety:  The Company may implement workplace safety measures in response to communicable diseases or public health emergencies, consistent with guidance from Cal/OSHA and public health authorities. Employees are required to comply with Company safety protocols, reporting requirements, and temporary work modifications implemented to protect employee and public health.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-2-6-8",
+      "sectionId": "h-section-2",
+      "label": "2.6.8",
+      "text": "Disaster Service Worker Status: Pursuant to California Government Code section 3100 et seq., all Company employees are designated as Disaster Service Workers and may be required to perform disaster service activities as directed during a declared emergency.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-fe707c7263",
+      "sectionId": "h-section-2",
+      "text": "Disaster service assignments will be made in accordance with applicable law, the Company’s Emergency Operations or Disaster Response Plan, and the employee’s training, skills, and abilities.",
+      "level": 2
+    },
+    {
+      "kind": "major_heading",
+      "id": "h-section-3",
+      "label": "SECTION 3",
+      "title": "RECRUITMENT AND SELECTION",
+      "level": 0
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-1",
+      "sectionId": "h-section-3",
+      "label": "3.1",
+      "title": "Merit Service",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-c755466b36",
+      "sectionId": "h-section-3",
+      "text": "The general policy of the Company is to ensure the recruitment, selection, and hiring of regular employees in an open, competitive, and objective manner, and in a fully documented and timely fashion. The General Manager may establish exceptions to the competitive recruitment process under certain circumstances, including temporary, emergency, or at-will positions, provided such exceptions are applied in a nondiscriminatory manner and consistent with applicable law.",
+      "level": 1
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-2",
+      "sectionId": "h-section-3",
+      "label": "3.2",
+      "title": "Recruitment and Application Process",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-2-1",
+      "sectionId": "h-section-3",
+      "label": "3.2.1",
+      "text": "Recruitment: The Company may utilize any legitimate recruitment procedure for attracting qualified applicants for vacant positions. Recruitments may be open or may be limited to only Company employees, depending on the Company’s needs. The General Manager may make appointments without going through a recruitment process when determined in the best interests of the Company and consistent with a Merit System. All employees must meet the minimum employment standards for the classification to which they are appointed.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-2-2",
+      "sectionId": "h-section-3",
+      "label": "3.2.2",
+      "text": "Announcement and Recruitment Period:  The announcement of a vacant position may be publicized as appropriate, either within the Company or to the public. Announced recruitments will be conducted in accordance with appropriate and valid equal employment opportunity guidelines and applicable state and federal nondiscrimination laws. All job announcements and recruitment materials shall include the pay scale (salary or hourly wage range) currently assigned to the position, consistent with California Labor Code section 432.3. Recruitment may be conducted for a limited time period or may be continuous until the position is filled.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-2-3",
+      "sectionId": "h-section-3",
+      "label": "3.2.3",
+      "text": "Application Materials: Unless otherwise announced, application for employment must be made on a Evergreen Mobility Employment Application Form provided by the Company. Information required will include education, experience, and other pertinent information that will help the Company determine whether the applicant meets the minimum qualifications to successfully perform the essential job duties. Application materials may include reference and background checking, and written answers to supplemental questions consistent with applicable law. Materials must be signed by the applicant certifying that all statements contained therein are true and correct. All application materials become the property of the Company. Final adjudication as to qualifications for a position rest with the General Manager in consultation with a Company human resources representative.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-2-4",
+      "sectionId": "h-section-3",
+      "label": "3.2.4",
+      "text": "Disqualification:  The Company may disqualify any applicant for any legitimate reason consistent with applicable law. Nothing in this policy limits any rights provided by law.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8425abdbb5",
+      "sectionId": "h-section-3",
+      "text": "The following are examples of reasons that may result in disqualification:",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-a-the-application-is-incomplete-or-improperly-completed",
+      "sectionId": "h-section-3",
+      "label": "a.",
+      "text": "The application is incomplete or improperly completed.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-b-the-application-indicates-on-its-face-that-the-applicant-does-not-posses",
+      "sectionId": "h-section-3",
+      "label": "b.",
+      "text": "The application indicates on its face that the applicant does not possess the minimum qualifications for the position.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-c-the-applicant-is-unable-to-perform-the-essential-functions-of-the-positi",
+      "sectionId": "h-section-3",
+      "label": "c.",
+      "text": "The applicant is unable to perform the essential functions of the position with or without reasonable accommodation.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-d-the-applicant-is-currently-using-illegal-drugs-as-defined-by-applicable",
+      "sectionId": "h-section-3",
+      "label": "d.",
+      "text": "The applicant is currently using illegal drugs, as defined by applicable law. For non-\t\t\tsafety-sensitive positions, this does not include the off-duty, lawful use of cannabis, \t\t\tconsistent with applicable law. Applicants for safety-sensitive positions subject to \t\t\tfederal Department of Transportation (DOT) regulations remain subject to federal drug-\t\t\ttesting standards.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-e-the-applicant-has-a-criminal-conviction-that-following-a-conditional-off",
+      "sectionId": "h-section-3",
+      "label": "e.",
+      "text": "The applicant has a criminal conviction that,  following a conditional offer of employment, a written individualized assessment, and the required pre-adverse and adverse action notice process, is determined to have a direct and adverse relationship with the specific duties of the position, consistent with the California Fair Chance Act.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-f-the-applicant-is-not-legally-permitted-to-work-within-the-united-states",
+      "sectionId": "h-section-3",
+      "label": "f.",
+      "text": "The applicant is not legally permitted to work within the United States, as required by federal law.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-g-the-applicant-has-made-false-statement-of-any-material-fact-or-has-engag",
+      "sectionId": "h-section-3",
+      "label": "g.",
+      "text": "The applicant has made false statement of any material fact or has engaged in deception or fraud in making the application.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-h-the-applicant-is-related-by-blood-marriage-domestic-partnership-or-marit",
+      "sectionId": "h-section-3",
+      "label": "h.",
+      "text": "The applicant is related by blood, marriage, domestic partnership, or marital type relationship to anyone in a direct supervisorial hierarchy of the position applied for.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-337c56aade",
+      "sectionId": "h-section-3",
+      "text": "Any material, job-related cause that would render the applicant unsuitable for the position, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-3",
+      "sectionId": "h-section-3",
+      "label": "3.3",
+      "title": "Selection",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-3-1",
+      "sectionId": "h-section-3",
+      "label": "3.3.1",
+      "text": "Initial Selection Methods:  Any legitimate objective method to determine the relative capabilities of the applicants to perform the duties of the classification may be utilized. These include, but are not limited to, written tests, oral interviews, panel interviews, practical tests, and other assessment tools. The Company may conduct the process itself or contract with any qualified organization or individual to prepare and/or administer selection processes. All selection methods will be job-related, consistent with business necessity, and administered in a nondiscriminatory manner consistent with applicable law. Specific results, scores, or strengths and weaknesses identified during the selection process will not be released except by the sole discretion of the General Manager or as otherwise required by law. The selection process shall not include inquiries into an applicant’s salary history. The Company will not rely on salary history information as a factor in determining whether to offer employment or in determining the salary for such applicant.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-3-2",
+      "sectionId": "h-section-3",
+      "label": "3.3.2",
+      "text": "Final Selection:  One or more applicants may be invited to be considered further in the process following the initial selection process. The General Manager or his/her designee as appointing authority will interview the candidates based on job-related questions or other means such as exercises that provide candidates with an equal opportunity to describe and demonstrate their qualifications. The General Manager or his/her designee as appointing authority may select any one of the most qualified applicants to fill the vacant position. Selection of any of the candidates is not required.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-4",
+      "sectionId": "h-section-3",
+      "label": "3.4",
+      "title": "Appointment",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-4-1",
+      "sectionId": "h-section-3",
+      "label": "3.4.1",
+      "text": "Background and Reference Checking:  Following a conditional offer of employment, applicants may be required to supply references and to submit to a thorough background check, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-4-2",
+      "sectionId": "h-section-3",
+      "label": "3.4.2",
+      "text": "Pre-Employment Physical and/or Psychological Exam May be Required: Following a conditional offer of employment, a candidate may be required to satisfactorily complete a pre-employment physical and/or psychological examination, if required for the position, at the Company’s expense, consistent with applicable law. This examination will determine their ability to physically and mentally perform the essential functions of the position with or without reasonable accommodation.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-1742ae5c84",
+      "sectionId": "h-section-3",
+      "text": ".",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-4-3",
+      "sectionId": "h-section-3",
+      "label": "3.4.3",
+      "text": "Conditional Offer of Employment:  A formal conditional offer of employment may be made by the General Manager or their designee. The offer letter will include:",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-a-the-title-of-the-position",
+      "sectionId": "h-section-3",
+      "label": "a.",
+      "text": "The title of the position.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-b-the-salary-and-benefits-offered",
+      "sectionId": "h-section-3",
+      "label": "b.",
+      "text": "The salary and benefits offered.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-c-the-start-date-and-work-hours",
+      "sectionId": "h-section-3",
+      "label": "c.",
+      "text": "The start date and work hours.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-d-the-office-and-to-whom-the-employee-is-to-report",
+      "sectionId": "h-section-3",
+      "label": "d.",
+      "text": "The office and to whom the employee is to report.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-e-a-statement-that-the-offer-is-conditional-upon-satisfactory-completion-o",
+      "sectionId": "h-section-3",
+      "label": "e.",
+      "text": "A statement that the offer is conditional upon satisfactory completion of any required  pre-employment examinations and background checks, as well as verification of the candidate’s authorization to work in the United States, as required by federal law. Resignation from current employment should not be finalized until this process is successfully completed.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-f-information-about-the-introductory-work-period",
+      "sectionId": "h-section-3",
+      "label": "f.",
+      "text": "Information about the Introductory Work Period.",
+      "level": 2
+    },
+    {
+      "kind": "list_item",
+      "id": "li-g-if-relevant-notice-that-with-the-offered-position-with-the-river-county",
+      "sectionId": "h-section-3",
+      "label": "g.",
+      "text": "If relevant, notice that with the offered position with the Evergreen Mobility Services is at-will employment and can be terminated at any time with or without cause or advance notice, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-5",
+      "sectionId": "h-section-3",
+      "label": "3.5",
+      "title": "Introductory Work Period",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-2f68f8096d",
+      "sectionId": "h-section-3",
+      "text": "Beginning on the first day of employment, all new regular employees are provided a 180 day Introductory Work Period which is considered the final step in the examination and selection process. Employment may be terminated at any time during this period with or without cause or notice, subject to applicable law. Completion of the introductory period does not guarantee continued employment and does not change the at-will nature of the employment relationship, where applicable.",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-5-1",
+      "sectionId": "h-section-3",
+      "label": "3.5.1",
+      "text": "Purpose:  During this period, the employee and the supervisor evaluate employment suitability in terms of skill, knowledge, performance, and compatibility. New employees are encouraged to ask questions, seek information, and learn the expectations of the position as well as the personal conduct and interpersonal relationships required to be effective in the role. Supervisors provide close direction and provide the job description, orientation to the Company culture and policies, and set performance goals. The supervisor will educate the employee about competencies required for success in the position, provide feedback regarding progress, and assess whether the employee meets the expectations of the position. Nothing in this section limits the Company’s obligation to provide reasonable accommodation or prohibits employees from engaging in protected activity under applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-5-2",
+      "sectionId": "h-section-3",
+      "label": "3.5.2",
+      "text": "Completion:  If the supervisor determines the employee’s performance and conduct meets expectations, the supervisor will complete an Introductory Work Period performance review which includes performance and conduct goals for the next six months and establishes the annual performance evaluation period. Successful completion of the introductory period shall result in 'regular' status for merit system employees but shall not alter the 'at-will' status of any employee designated as such under Section 1.4 of this manual.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-3-5-3",
+      "sectionId": "h-section-3",
+      "label": "3.5.3",
+      "text": "Extension: The Company may extend an employee’s Introductory Work Period when, in the Company’s judgment, an extension is necessary to allow adequate evaluation of the employee’s performance and suitability for the position. Circumstances that may warrant an extension include, but are not limited to, extended absences, modified or limited work assignments, or documented performance concerns. Any extension will be communicated to the employee in writing, including the length of the extension and the reason for the extension.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-3-6",
+      "sectionId": "h-section-3",
+      "label": "3.6",
+      "title": "Reemployment",
+      "level": 1
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-1a6418cc3a",
+      "sectionId": "h-section-3",
+      "text": "An employee who resigns under positive circumstances may be eligible for reemployment within 60 days of resignation. Reemployment will be at the discretion of the General Manager, consistent with applicable law. Salary and seniority will be treated as if the employee had been on a leave of absence. No leave balances, except as required by law, will be reinstated, but the employee will retain years of service credit for future leave accruals.",
+      "level": 1
+    },
+    {
+      "kind": "major_heading",
+      "id": "h-section-4",
+      "label": "SECTION 4",
+      "title": "EMPLOYMENT PRACTICES",
+      "level": 0
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-1",
+      "sectionId": "h-section-4",
+      "label": "4.1",
+      "title": "Salary and Benefits Administration, and Classification Plan",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-1",
+      "sectionId": "h-section-4",
+      "label": "4.1.1",
+      "text": "Salary Ranges:  A salary range is established by the Board of Directors for each classification by approval of an Employment Compensation Framework upon the recommendation of the General Manager. Salary ranges are recommended for the purpose of maintaining quality public service and will take into account the responsibility and difficulty of the work, the compensation needed to recruit effectively in the labor market, and other pertinent factors. Salary ranges and placement decisions will be administered in a manner consistent with applicable laws, which ensure equal pay for employees performing substantially similar work regardless of gender, race, ethnicity, or any other status protected by applicable laws, including those listed in Section 2.2 of this manual.",
+      "level": 2
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-1-2",
+      "sectionId": "h-section-4",
+      "label": "4.1.2",
+      "title": "Placement within Salary Range",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.a",
+      "text": "Salary upon Hire:  Initial placement within the salary range is determined by the General Manager based on the candidate’s background and experience, the time expected to learn and fully meet job performance standards, and other business factors deemed relevant, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.b",
+      "text": "Salary Increases within Range:  Salary adjustments may be approved by the General Manager based on meeting of performance and conduct standards, the current level within the range, and other business factors deemed relevant. Salary within the range will be reviewed at least once per year following performance review. Salary may not be paid above the maximum of the range established by the Board of Directors.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.c",
+      "text": "Salary upon Promotion:  An employee promoted to a classification with a higher salary range will be placed within the higher salary range based on the same criteria as for initial hire above.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.d",
+      "text": "Salary upon Temporary Promotion:  Employees are expected to perform some duties of a higher classification from time to time without additional compensation as part of their training and development and to meet the operational needs of the Company. This includes filling in for routine absences such as conference attendance, vacations, and leave due to illness. If an employee is temporarily assigned to the full duties of a higher classification due to prolonged absence of the incumbent, or a vacancy in the higher classification, temporary placement within the salary range of the higher classification will be made, as determined by the General Manager. Upon completion of the temporary assignment, the employee will be reassigned to his or her regular classification and salary. Nothing in this section authorizes uncompensated out-of-class work in violation of applicable wage and hour laws.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-e",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.e",
+      "text": "Salary upon Demotion:  If an employee requests a voluntary demotion or is demoted due to performance issues to a classification with a lower salary range, the employee will be placed within the salary range of the classification into which demoted as determined by the General Manager.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-2-f",
+      "sectionId": "h-section-4",
+      "label": "4.1.2.f",
+      "text": "Salary upon Reclassification:  If an employee is reclassified to a classification with a higher salary range, the salary will be determined in the same manner as a promotion. If an employee is reclassified to a classification with a lower salary range, the employee will be placed within the salary range of the lower classification as close to the salary previously earned as possible without exceeding the salary for the new classification.",
+      "level": 3
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-1-3",
+      "sectionId": "h-section-4",
+      "label": "4.1.3",
+      "title": "Pay Schedules",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-3-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.3.a",
+      "text": "Pay Periods and Payday:  The Company payroll calendar consists of two pay periods monthly, the first from the 1st day to the 15th day of the month, and the second from the 16th day of the month to the end of the month. Corresponding paydays occur on the 22nd of the month and the 7th of the following month. If a normal payday falls on a weekend or holiday, the payday shifts to the next business day.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-3-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.3.b",
+      "text": "Timesheets:  Each employee must complete a timesheet and submit it to his or her supervisor no later than the last working day of the pay period. Timesheets are not final until approved by the supervisor.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-3-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.3.c",
+      "text": "Payroll Errors:  Any payroll error resulting in insufficient payment to an employee will be corrected and a supplemental check issued not later than five working days from the issuance of the first check or notice, whichever is later. If a payroll error results in overpayment to an employee, the Company will collect the overpayment through payroll deduction or otherwise on a schedule determined by the Company in consultation with the employee, and consistent with applicable wage deduction laws. Upon learning about overpayment or underpayment, an employee must immediately notify his or her supervisor.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-3-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.3.d",
+      "text": "Payment Upon Separation:  An employee leaving Company employment will receive a final paycheck including earned salary, unused accrued vacation, and earned but unpaid overtime, in accordance with applicable law and Company policy.",
+      "level": 3
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-1-4",
+      "sectionId": "h-section-4",
+      "label": "4.1.4",
+      "title": "Health Benefits",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-4-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.4.a",
+      "text": "Eligibility: Full-time regular employees are eligible for full Company contribution towards insurance and other benefits. A regular employee scheduled to work at least 90% of the basic workweek, or at least 36 hours per week, will be considered full-time for benefit purposes. Regular part-time employees are eligible to enroll in all health benefits if they work 20 hours or more per week. Employees working between 20 and 30 hours per week are eligible for one-half the Company contribution towards medical insurance. Employees working between 30 and 36 hours per week are eligible for 75% of the Company contribution towards medical insurance. Employees working 20 hours or more are eligible for full Company contribution to dental and vision insurance. Temporary employees are not eligible for benefits or Company contribution. Eligibility determinations will be administered in a nondiscriminatory manner consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-4-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.4.b",
+      "text": "Medical Insurance:  The Company provides medical insurance plans through the County of River. Employees may select from among the plans offered for themselves and their families. The Company contributes up to the following amounts towards monthly premiums:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-6349299315",
+      "sectionId": "h-section-4",
+      "text": "Employee only and Employee +1 dependent:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d0b9cbaf0e",
+      "sectionId": "h-section-4",
+      "text": "95% of employee +1 premium for base HMO plan (currently Kaiser Silver)",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-0b33b65395",
+      "sectionId": "h-section-4",
+      "text": "Employee + 2 or more dependents:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-5149ef77c0",
+      "sectionId": "h-section-4",
+      "text": "95% of employee +2 premium for base HMO plan (currently Kaiser Silver)",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8d9d5f72dc",
+      "sectionId": "h-section-4",
+      "text": "A different amount may be approved by the Board of Directors through an Employment Compensation Framework recommended by the General Manager.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d6f5b50550",
+      "sectionId": "h-section-4",
+      "text": "An employee may waive medical insurance coverage through the Company upon presentation of proof of equivalent creditable group coverage elsewhere, such as through a spouse’s group coverage. Employees approved to waive medical insurance coverage may receive an amount equal to the employee only premium for the base HMO plan (currently Kaiser Silver) per month in lieu of the contribution towards insurance, or another amount approved by the Board of Directors through an Employment Compensation Framework, consistent with applicable tax and benefits laws.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-4-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.4.c",
+      "text": "Dental Insurance:  The Company provides an employee dental insurance plan through the County of River. The Company covers the premium for the dental insurance for employees and their eligible family members.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-4-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.4.d",
+      "text": "Vision Insurance:  The Company provides an employee vision insurance plan through the County of River. The Company covers the premium for the vision insurance for employees and their families.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-4-e",
+      "sectionId": "h-section-4",
+      "label": "4.1.4.e",
+      "text": "Enrollment in Health Benefits:  Enrollment in medical, dental, and vision insurance is completed upon hire, and benefits begin the first of the following month. Open enrollment for medical insurance only is held annually, usually late in the calendar year. There is no annual open enrollment for dental or vision plans; newly acquired or newborn eligible dependents must be enrolled within 30 days of the date of hire or the qualifying event, or as otherwise required by applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-1-5",
+      "sectionId": "h-section-4",
+      "label": "4.1.5",
+      "title": "Disability and Life Insurances",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-5-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.5.a",
+      "text": "Short Term Disability (SDI):  Employees of the Company participate in State of California short term disability insurance (SDI). The insurance provides partial wage replacement to employees unable to perform their regular and customary work because of a non-industrial physical or mental illness or injury. Contributions are established by State law. SDI benefits are administered by the State of California in accordance with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-5-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.5.b",
+      "text": "Long Term Disability (LTD):  The Company provides long-term disability income coverage to replace a portion of lost income if a regular employee has an injury or illness and is unable to work. After a waiting period of 90 days, the LTD program provides 66.67% of basic monthly earnings to a maximum of $3,000 per month for a period of time, subject to the terms and conditions of the applicable insurance policy.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-5-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.5.c",
+      "text": "Basic Life Insurance:  Employees are covered with $10,000 of basic life and $10,000 of accidental death and dismemberment insurance at Company cost. Supplemental insurance may be purchased by employees as available, subject to the terms of the applicable insurance plan.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-6",
+      "sectionId": "h-section-4",
+      "label": "4.1.6",
+      "text": "Transit Commute Benefit: All Company employees receive transit free of charge on any Evergreen Mobility route. To encourage additional public transit usage, employees may receive a subsidy of up to the federal IRS Section 132a allowance per month towards public transit to work. Application for the subsidy must be made on the Transit Benefit Enrollment Form obtained from a Company designated human resources representative. This benefit is provided in accordance with applicable tax law.",
+      "level": 2
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-1-7",
+      "sectionId": "h-section-4",
+      "label": "4.1.7",
+      "title": "Retirement Benefits",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-7-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.7.a",
+      "text": "Social Security:  The Company and all its employees participate in Social Security. Premiums are as set forth by federal law for employees and the Company.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-7-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.7.b",
+      "text": "Defined Contribution Retirement Plan:  All regular employees working a minimum of 20 hours per week become vested in a 401(a) defined contribution retirement account upon completion of one year of service. The 401(a) plan is offered through the Company’s retirement plan provider. Contributions toward the plan for each employee are made by the Company according to the following schedule, based on normal base salary or wage rate (not including vacation pay out, overtime, insurance contributions, etc.), to the limit of pensionable compensation defined by federal IRS limits:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-f19000a68f",
+      "sectionId": "h-section-4",
+      "text": "Years of employment with the Company completed\t\tAmount of Company Contribution",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-5b901541a3",
+      "sectionId": "h-section-4",
+      "text": "0 through 2 years\t\t\t\t\t\t10%",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b79281532e",
+      "sectionId": "h-section-4",
+      "text": "Over 2 years through 4 years\t\t\t\t\t13%",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b331532e61",
+      "sectionId": "h-section-4",
+      "text": "Over 4 years\t\t\t\t\t\t\t15%.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3b8fd8078d",
+      "sectionId": "h-section-4",
+      "text": "Percentage amounts are not vested and may be revised by the Board of Directors through an Employment Compensation Framework as recommended by the General Manager, subject to applicable law and plan requirements.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-7-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.7.c",
+      "text": "Deferred Compensation Plan:  Regular employees are eligible to participate in a deferred compensation plan (457 Plan) administered by the Company’s retirement plan provider. The 457 Plan enables employees to make voluntary contributions of salary on a pre-tax basis and/or post-tax basis into the plan each pay period up to an annual contribution limit established by federal law, in accordance with plan rules and applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-7-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.7.d",
+      "text": "Education and Options:  Employees may access education workshops, participant-directed accounts, optional automatic asset rebalancing features, web-based secure communication, and the services of a local retirement specialist through the Company’s retirement plan provider for help in managing their 401(a) and 457 retirement plans.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-8",
+      "sectionId": "h-section-4",
+      "label": "4.1.8",
+      "text": "Worker’s Compensation Insurance Benefit: All employees are entitled to worker’s compensation insurance benefits if injured or made ill arising out of or in the course of work. Employees are eligible to receive workers’ compensation insurance benefits if the claim is declared compensable under the California workers’ compensation laws. Payment of job-incurred disability leave will be at the amount as set forth under State law and administered by the Company’s workers’ compensation insurance carrier.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-8-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.8.a",
+      "text": "Procedures and Responsibilities: In the event of a work-related injury, the General Manager or his/her designee will provide the employee an “Employee’s Claim for Worker’s Compensation Benefit and Notice of Potential Eligibility for Benefits” form within one working day of learning of a work-related injury. The Company will complete the “Employer’s Report of Occupational Injury or Illness” form within five working days of learning of the employee’s injury and send the form to the Company’s worker’s compensation insurance carrier in accordance with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-8-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.8.b",
+      "text": "Obtaining Forms:  Forms required to be submitted will be obtained from a Company-designated human resources representative or as otherwise required by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-8-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.8.c",
+      "text": "Notice of Coverage:  Employees will be provided notice of their worker’s compensation benefit coverage during their first month of employment, including the employee’s right to designate their primary physician as their initial physician, consistent with California workers’ compensation laws.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-8-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.8.d",
+      "text": "Return to Work if Absent on Workers’ Compensation Leave:  The Company may require the employee to provide medical certification that the employee is physically able to perform the duties of the position with or without reasonable accommodation in order to return to work following job-incurred disability leave consistent with applicable workers’ compensation, disability accommodation, and nondiscrimination laws.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9",
+      "sectionId": "h-section-4",
+      "label": "4.1.9",
+      "text": "Classification Plan: A classification plan for positions in the Company will be maintained and will serve as the foundation for examination and selection, compensation, training, promotion, demotion, reduction in force, re-employment, and other related decisions. Classifications will be designed as broadly as possible to retain flexibility in assignments and provide the fewest classifications necessary. Several positions may be allocated to one classification. The classification plan will be administered in a manner consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9-a",
+      "sectionId": "h-section-4",
+      "label": "4.1.9.a",
+      "text": "Classification Specifications:  Written classification specifications will be developed and maintained and all positions will be allocated to a classification based on similarity of duties, responsibilities, and employment standards   Initial class specifications and significant changes that could impact compensation will be recommended by the General Manager for approval by the Board of Directors.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9-b",
+      "sectionId": "h-section-4",
+      "label": "4.1.9.b",
+      "text": "Content of Classification Specifications:  The classification specification will include the classification title, general level of responsibility and authority, essential and typical duties and responsibilities, working conditions, and the minimum employment standards required for success in the position. Employment standards include knowledge and skill, education, licensure, related experience and background, and the physical and mental abilities required to perform the essential functions, with or without reasonable accommodation.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9-c",
+      "sectionId": "h-section-4",
+      "label": "4.1.9.c",
+      "text": "Modifications to Classification Specifications:  Class specifications will be modified or updated as needed to accurately reflect and identify the position and its standards of employment. There is no change in the compensation level required with a title or specification change, unless otherwise approved by the Board of Directors or required by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9-d",
+      "sectionId": "h-section-4",
+      "label": "4.1.9.d",
+      "text": "Class Specifications not Restrictive:  Class specifications will not be construed as a declaration of all duties and responsibilities, as a statement that the duties and responsibilities will not be changed, or that the temporary assignments of other duties and responsibilities may not be made. The Company maintains the right to assign, direct and control the work of employees and class specifications in no way interfere with this right, subject to applicable wage and hour, nondiscrimination, and disability accommodation laws.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-9-e",
+      "sectionId": "h-section-4",
+      "label": "4.1.9.e",
+      "text": "Reclassification:  In the event that a job has significantly changed in duties and responsibilities over time such that the classification specification no longer describes the position, a position reclassification may be recommended by the appointing authority and approved by the Board of Directors, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-1-10",
+      "sectionId": "h-section-4",
+      "label": "4.1.10",
+      "text": "Reduction in Force: In the event it becomes necessary to modify workforce staffing levels due to lack of work or funds, layoff decisions will be made based on position and at the discretion of the General Manager, consistent with applicable law, taking into account agency priorities, funding availability, and/or work responsibilities.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-2",
+      "sectionId": "h-section-4",
+      "label": "4.2",
+      "title": "Work Hours, Work Schedules, and Overtime Practices",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-1",
+      "sectionId": "h-section-4",
+      "label": "4.2.1",
+      "text": "Workweek:  The standard workweek for full-time employees is a fixed and regularly recurring period of seven consecutive 24-hour periods (168 hours). Unless otherwise specified below, the work week begins at 12:01 a.m. on Monday. Monday and ends at 12:00 a.m. the following Monday. A full-time workweek consists of 40 hours of scheduled work time.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-5f4418fd62",
+      "sectionId": "h-section-4",
+      "text": "Standard Schedule: For employees working a standard five-day, eight-hour-per-day schedule, the workweek begins at 12:01 a.m. Monday and ends at 12:00 a.m. the following Monday.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-0dd2092d5d",
+      "sectionId": "h-section-4",
+      "text": "Alternate (9/80) Schedule: For employees on an approved 9/80 schedule, the workweek is defined as a fixed 168-hour period and begins at the designated split point in the employee’s approved schedule. The split point occurs four (4) hours after the start of the employee’s regularly scheduled eight-hour workday on the day corresponding to the employee’s alternating day off (e.g., every other Friday, if applicable). This split point establishes two consecutive workweeks within the 80-hour pay period for overtime calculation purposes.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-2",
+      "sectionId": "h-section-4",
+      "label": "4.2.2",
+      "text": "Work Schedule:  Employees designated as FLSA exempt, shall work any and all hours necessary to perform their assigned duties, without overtime. Otherwise, typically, the regular full-time work schedule will be 8 hours per day, 5 days per week and may include weekends and holidays. Employees working fewer than 40 hours per week will be considered part-time employees except those employees regularly working 36 – 39 hours per week are considered full time for health benefit purposes. The Company will establish and may modify regular work schedules for its employees, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-3",
+      "sectionId": "h-section-4",
+      "label": "4.2.3",
+      "text": "Rest Periods:  Unless otherwise established by the General Manager for a particular employee, employees in a non-exempt classification will have a 15 minute rest period, or major fraction thereof, consistent with applicable law. Rest periods may not be combined or used to shorten the workday.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-4",
+      "sectionId": "h-section-4",
+      "label": "4.2.4",
+      "text": "Meal Period:  Unless otherwise established by the General Manager for a particular employee, full-time employees in a non-exempt classification will receive a one half or one hour meal period daily that is not compensable. During the meal period, the employee will be relieved of duties. If the employee is authorized in advance and performs work during the meal period, the employee will be compensated for the time worked. Unless authorized in advance, meal periods may not be used to shorten the workday. Meal periods will be provided and administered in accordance with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-5",
+      "sectionId": "h-section-4",
+      "label": "4.2.5",
+      "text": "Overtime Practices:  The Company complies with the Fair Labor Standards Act (FLSA) in all its pay practices, and overtime shall be defined and compensated for in accordance with the appropriate FLSA designation of the classification of the employee and applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-5-a",
+      "sectionId": "h-section-4",
+      "label": "4.2.5.a",
+      "text": "FLSA Exempt: Employees who meet the salary basis, duties, and other requirements of the professional, executive, or administrative exemptions under the FLSA and applicable law  are designated as exempt employees. Their hours of work are those required to complete the work, and they are not entitled to overtime compensation.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-5-b",
+      "sectionId": "h-section-4",
+      "label": "4.2.5.b",
+      "text": "Overtime Required:  Non-exempt employees may be required to work overtime. Overtime is defined and compensated in accordance with the FLSA and applicable law. Overtime will be compensated at the rate of 1 ½ time the employee’s regular rate of pay. Except when it is necessary to address an emergency or special circumstances, employees may not work outside of regularly scheduled working hours or during unpaid meal periods without prior authorization. In such an event, employees shall report overtime work as soon as possible after the work is performed.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-5-c",
+      "sectionId": "h-section-4",
+      "label": "4.2.5.c",
+      "text": "Compensatory Time:  The General Manager may approve, consistent with applicable law, overtime compensation for non-exempt employees in the form of compensatory time off at the rate of time and one-half. The Company may limit an employee’s use of compensatory time to a maximum of forty (40) hours per calendar year, subject to operational needs and applicable law. Compensatory time not used within the fiscal year in which it was accrued may be paid off at the discretion of the General Manager, in accordance with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-6",
+      "sectionId": "h-section-4",
+      "label": "4.2.6",
+      "text": "Alternative or Flexible Work Schedules:  The General Manager may establish alternative work schedules or flexible work schedules provided the work schedule is beneficial to the Company and administered in accordance with applicable law. All leaves will continue to accrue and be compensated at the rate of 8 hours per day for a full-time employee regardless of an alternative or flexible work schedule, unless otherwise required by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-7",
+      "sectionId": "h-section-4",
+      "label": "4.2.7",
+      "text": "Telecommuting / Remote Work:  Telecommuting or remote work arrangements may be approved at the discretion of the Company and are not an entitlement, benefit, or condition of employment.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-7de882c46f",
+      "sectionId": "h-section-4",
+      "text": "4.2.7.a\tEligibility: Eligibility for telecommuting depends on job duties, operational needs, employee performance, and the ability to maintain service delivery and accountability.\nNot all positions are eligible for telecommuting.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-7-b",
+      "sectionId": "h-section-4",
+      "label": "4.2.7.b",
+      "text": "Approval and Agreement: Telecommuting arrangements must be approved in advance by the General Manager or designee and documented in a separate Telecommuting Agreement. The Telecommuting Agreement sets forth specific terms and conditions and must be signed by the employee prior to commencement of telecommuting.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-7-c",
+      "sectionId": "h-section-4",
+      "label": "4.2.7.c",
+      "text": "Work Hours and Performance: Employees approved for telecommuting / remote work:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-47ac3b59df",
+      "sectionId": "h-section-4",
+      "text": "Remain subject to all Company policies, including work hours, overtime, performance standards, confidentiality, and electronic media use;",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3c4dbcfd61",
+      "sectionId": "h-section-4",
+      "text": "Must be available during approved work hours;",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e738cc2424",
+      "sectionId": "h-section-4",
+      "text": "Must accurately record time worked in accordance with Company policy.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-4149459224",
+      "sectionId": "h-section-4",
+      "text": "4.2.7.d\tEquipment and Expenses: Telecommuting does not change the employee’s responsibility to safeguard Company equipment, records, and confidential information.\nProvision of equipment or reimbursement of expenses is subject to the terms of the Telecommuting Agreement.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-7-e",
+      "sectionId": "h-section-4",
+      "label": "4.2.7.e",
+      "text": "Modification or Revocation: Telecommuting arrangements may be modified or revoked at any time at the discretion of the Company or upon employee request, with or without cause, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-7-f",
+      "sectionId": "h-section-4",
+      "label": "4.2.7.f",
+      "text": "Relationship to Standalone Policy: Additional requirements governing telecommuting are set forth in the Company’s Telecommuting Policy and Agreement (HR-05), which is incorporated by reference.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-2-8",
+      "sectionId": "h-section-4",
+      "label": "4.2.8",
+      "text": "Emergency Closures and Disaster Operations: In the event of an emergency, natural disaster, or other circumstances requiring modification of normal operations, the Company may close facilities, modify work schedules, or require employees to work or remain off duty as needed to ensure safety and continuity of operations.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-dbc464bd3f",
+      "sectionId": "h-section-4",
+      "text": "Compensation, leave usage, and reporting requirements during such events will be determined by the Company in accordance with applicable law and operational needs.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-3",
+      "sectionId": "h-section-4",
+      "label": "4.3",
+      "title": "Performance Planning and Review",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-1",
+      "sectionId": "h-section-4",
+      "label": "4.3.1",
+      "text": "Purpose:  The purposes of the performance planning and review process are to:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-53435149a6",
+      "sectionId": "h-section-4",
+      "text": "align employee work performance and behaviors with Company goals,",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-fceec6731c",
+      "sectionId": "h-section-4",
+      "text": "prioritize key work and behavioral expectations for the period,",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-225f4d0e42",
+      "sectionId": "h-section-4",
+      "text": "identify and record accomplishments and contributions,",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-9ebebf80b2",
+      "sectionId": "h-section-4",
+      "text": "determine need and plan for training or development activities that would improve performance or help prepare employee for advancement; and",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-67dff526f0",
+      "sectionId": "h-section-4",
+      "text": "provide work performance feedback.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-a990a2e618",
+      "sectionId": "h-section-4",
+      "text": "The process provides the framework for employees and their supervisors to engage in an ongoing and constructive conversation about the employee’s role and impact in achieving organizational goals. The process also includes training and development goals and plans that will improve or enhance the knowledge, skills, and abilities of the employee.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-2",
+      "sectionId": "h-section-4",
+      "label": "4.3.2",
+      "text": "Timing:  Planning and evaluation will occur at least annually on a schedule determined by the Company. Performance planning occurs at the beginning of the annual period. Following evaluation discussions at the conclusion of the annual period, written forms will generally be completed within thirty days. Once the review is completed, performance planning for the new annual period will be conducted.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-3",
+      "sectionId": "h-section-4",
+      "label": "4.3.3",
+      "text": "Performance Planning:  At the beginning of the annual evaluation period, the supervisor and employee will meet to clarify the purpose of the job, set expectations for the year for work behaviors, determine outcomes and planned accomplishments, and discuss how these will contribute to the achievement of Company goals. Developmental goals to further the employee’s success in the job will also be set. Company performance planning forms will be used for preparing for and documenting the discussion.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-4",
+      "sectionId": "h-section-4",
+      "label": "4.3.4",
+      "text": "Ongoing Review:  Feedback throughout the year, whether about positive behavior and good performance or about behaviors or performance that requires improvement, will be provided. This includes when unplanned assignments arise, coaching is needed, and projects are completed, and/or during regularly scheduled meetings between the supervisor and employee. Employees are encouraged to request guidance and feedback to assist them in achieving the highest performance and demonstrating appropriate workplace behavior.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-5",
+      "sectionId": "h-section-4",
+      "label": "4.3.5",
+      "text": "Annual Review:  A performance review will be conducted at the end of the annual work period based on the performance plan and feedback throughout the year. The appraisal will be recorded in a written performance review on an approved Company form. The written review will provide documentation of work achievements, accomplishments, and contributions, as well as work behaviors that contributed to organizational effectiveness. The review will include, if needed, documentation of performance deficiencies that need improvement and a plan for improvement.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-6",
+      "sectionId": "h-section-4",
+      "label": "4.3.6",
+      "text": "Performance Improvement Plan:  If a plan is developed and provided to improve performance or work behaviors, such plan is part of the annual review and is not considered disciplinary action and does not preclude the Company from taking disciplinary action if warranted.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-7",
+      "sectionId": "h-section-4",
+      "label": "4.3.7",
+      "text": "Employee Response to Annual Review:  The employee’s signature on the written performance review indicates receipt. The employee may prepare and submit a written response to the employee’s supervisor, if desired, within five workdays of signing the evaluation. Nothing in this policy limits any rights provided by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-3-8",
+      "sectionId": "h-section-4",
+      "label": "4.3.8",
+      "text": "Record of Written Review:  The completed written annual performance review will be forwarded to Company management and then filed in the employee’s official personnel file. If the employee files a written response, it will be forwarded along with the evaluation and then placed with the written review in the employee’s official personnel file.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-4",
+      "sectionId": "h-section-4",
+      "label": "4.4",
+      "title": "Employee Discipline",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-1",
+      "sectionId": "h-section-4",
+      "label": "4.4.1",
+      "text": "Employee Discipline Policy:  Employment in the Evergreen Mobility Services requires appropriate and disciplined behavior and competent service including compliance with all Company policies and procedures. Regular employees shall only be disciplined for cause, and in accordance with these Personnel Policies and Procedures and applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-2",
+      "sectionId": "h-section-4",
+      "label": "4.4.2",
+      "text": "Types of Disciplinary Actions:  The General Manager or his/her designated management employee may invoke disciplinary action for a violation of a policy or practice and may impose any of the following types of disciplinary action: oral warning, written warning, suspension without pay, reduction in compensation, demotion, or dismissal.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d08bd55c3e",
+      "sectionId": "h-section-4",
+      "text": "Oral Warning:  A formal discussion with an employee, usually by the employee’s immediate supervisor, about performance or conduct problems, the need for the employee to improve, what specific improvement is expected, and the further consequences if improvement is not made.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b4495c0edb",
+      "sectionId": "h-section-4",
+      "text": "Written Warning:  A formal written notice to an employee, usually by the employee’s immediate supervisor, regarding performance or conduct problems, the need for the employee to improve, what specific improvement is expected, a statement of any prior disciplinary action, and the further consequences if improvement is not made.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-940444b72f",
+      "sectionId": "h-section-4",
+      "text": "Suspension:  Removal of an employee from duty without pay for a specific period of time. Written notification will be provided, including the issue and policy violation and proposed discipline, and the employee will have the opportunity to respond. The employee may respond to the proposed discipline either verbally or in writing within ten working days from the date of the notification. The employee may have a representative present if the employee desires to respond verbally. For suspension of six business days or longer, the employee may file an appeal pursuant to Section 4.4.6 in lieu of filing a response.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8b37292e7a",
+      "sectionId": "h-section-4",
+      "text": "Reduction in Compensation:  A reduction in pay from the employee’s current pay to a lower pay within the salary range for the employee’s classification. Written notification will be provided, including the issue and policy violation and proposed discipline, and the employee will have the opportunity to respond. The employee may respond to the proposed discipline either verbally or in writing within ten working days from the date of the notification. The employee may have a representative present if the employee desires to respond verbally. In lieu of filing a response, the employee may file an appeal pursuant to Section 4.4.6.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-03dd0dc937",
+      "sectionId": "h-section-4",
+      "text": "Demotion:  A reduction from the employee’s current classification to a classification with a lower salary range and lesser duties and responsibilities. Written notification will be provided, including the issue and policy violation and proposed discipline, and the employee will have the opportunity to respond. The employee may respond to the proposed discipline either verbally or in writing within ten working days from the date of the notification. The employee may have a representative present if the employee desires to respond verbally. In lieu of filing a response, the employee may file an appeal pursuant to Section 4.4.6.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b4a0083e63",
+      "sectionId": "h-section-4",
+      "text": "Dismissal:  Separation from employment of an employee by written notification will be provided, including the issue and policy violation and proposed discipline, and the employee will have the opportunity to respond. The employee may respond to the proposed discipline either verbally or in writing within ten working days from the date of the notification. The employee may have a representative present if the employee desires to respond verbally. In lieu of filing a response, the employee may file an appeal pursuant to Section 4.4.6.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-3",
+      "sectionId": "h-section-4",
+      "label": "4.4.3",
+      "text": "Grounds for Disciplinary Action:  Causes that will be deemed sufficient for disciplinary action may include, but are not limited to:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-2d008278f3",
+      "sectionId": "h-section-4",
+      "text": "Misstatements or omission of fact in completion of the employment application.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-9705f41688",
+      "sectionId": "h-section-4",
+      "text": "Furnishing knowingly false information in the course of the employee’s duties and responsibilities; dishonesty.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8f8e40326c",
+      "sectionId": "h-section-4",
+      "text": "Inability to comply with the minimum standards of performance.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ed52ac7beb",
+      "sectionId": "h-section-4",
+      "text": "Inefficiency, carelessness, or negligence in the performance of duties.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-5787a73520",
+      "sectionId": "h-section-4",
+      "text": "Violation of any of the provisions of these Personnel Policies and Procedures.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-34d53c5bb4",
+      "sectionId": "h-section-4",
+      "text": "Disobedience to proper authority, refusal or failure to perform assigned work, comply with a lawful order, or accept an assignment from an authorized supervisor; insubordination.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e4f5be6b41",
+      "sectionId": "h-section-4",
+      "text": "Conviction of a felony or misdemeanor involving moral turpitude, or a violation of a federal, state, or local law that negatively impacts the employee’s ability to perform his or her job or brings discredit to the Company.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-2b7a6088c8",
+      "sectionId": "h-section-4",
+      "text": "Unauthorized absence without leave, failure to report after leave of absence has expired or after a requested leave of absence has been disapproved, or any other unauthorized absence from work.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-db1085c866",
+      "sectionId": "h-section-4",
+      "text": "Theft of or willful damage to Company equipment, supplies, or property.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ac98504641",
+      "sectionId": "h-section-4",
+      "text": "Discourteous, offensive, or abusive treatment of the public or other employees.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ff877a383a",
+      "sectionId": "h-section-4",
+      "text": "Being under the influence of an intoxicating beverage or non-prescription drug or prescription drug not authorized by the employee’s physician while on duty or on work property.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-300671e0d1",
+      "sectionId": "h-section-4",
+      "text": "Failure to obtain and/or maintain minimum qualifications for a position, including licenses or certificates.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-f70157077e",
+      "sectionId": "h-section-4",
+      "text": "Engaging in outside employment that conflicts with an employee’s responsibilities or without proper authorization.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-bdfde3996c",
+      "sectionId": "h-section-4",
+      "text": "Acceptance, from any source, of a reward, gift, or other form of remuneration in addition to regular compensation to an employee for the performance of his or her official duties.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-31788d370a",
+      "sectionId": "h-section-4",
+      "text": "Political activity while on duty, during working hours, or in Company uniform or representing oneself as a Company employee.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-664a6c9841",
+      "sectionId": "h-section-4",
+      "text": "Tampering in any way with a Company recruitment or examination process or attempting to influence any applicant for employment.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8d85c1e503",
+      "sectionId": "h-section-4",
+      "text": "Any other conduct deemed of sufficient gravity as determined by the General Manager, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-4",
+      "sectionId": "h-section-4",
+      "label": "4.4.4",
+      "text": "Employee Review:  When requested, employees will be given an opportunity to review the documents or materials upon which the proposed disciplinary action is based, to the extent required by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-5",
+      "sectionId": "h-section-4",
+      "label": "4.4.5",
+      "text": "Immediate Action:  The General Manager may place an employee on immediate suspension or administrative leave with or without pay pending an investigation in order to determine if disciplinary action is to be taken, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-6",
+      "sectionId": "h-section-4",
+      "label": "4.4.6",
+      "text": "Right of Appeal:  Regular employees have the right to appeal a disciplinary action except in those instances where the right of appeal is specifically prohibited by these policies and procedures, and for those designated as at-will employees. Employees may, within seven calendar days after receiving the written disciplinary action, file a written appeal with the Company’s Personnel Commission, which shall be made up of the Company’s Board of Directors. Within 20 work days from the filing of the appeal the Personnel Commission will hold a hearing and either affirm, modify, or revoke the disciplinary action. The appellant may appear personally, produce evidence, and have counsel and a public hearing. The findings and decision of the Personnel Commission will be transmitted to the General Manager for enforcement.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-4-7",
+      "sectionId": "h-section-4",
+      "label": "4.4.7",
+      "text": "Discipline of an Exempt Employee:  Pursuant to the Fair Labor Standards Act, with the exception of a violation of a major safety rule or standard of conduct, exempt employees will not be suspended for less than a full work week, nor be temporarily demoted, nor temporarily have their pay reduced, except as permitted under the Fair Labor Standards Act (FLSA).",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-5",
+      "sectionId": "h-section-4",
+      "label": "4.5",
+      "title": "Leaves of Absence",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-1",
+      "sectionId": "h-section-4",
+      "label": "4.5.1",
+      "text": "General Leave Provisions:  Employees are expected to be at work at their scheduled times. To ensure accountability and the integrity of public service, all employees are expected to account for their absences from work. Leave time is chargeable in increments of ¼ hour, except as otherwise required by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-1-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.1.a",
+      "text": "Leave Approval:  Leaves are subject to approval by the supervisor or manager and scheduled in advance whenever possible and with due regard for service needs, except where advance notice is not feasible or is otherwise protected by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-1-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.1.b",
+      "text": "Leave Accounting:  The Company may employ any reasonable measure to ensure employees are properly accounting for leaves, including requiring reasonable proof that the basis for leave is legitimate. Employees may be required to submit a medical certification of sickness supporting a request for sick leave, to the extent permitted by law. The Company may require a fitness-for-duty certification from any employee returning from medical leave, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-1-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.1.c",
+      "text": "Leave Accruals:  Leave benefits accrue to regular employees based on hours in paid status. No leaves will accrue when an employee is on an unpaid leave, unless otherwise required by law. All leaves are accrued and paid based on an 8-hour day maximum. Regular part-time employees accrue leaves on a pro-rata basis.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-2",
+      "sectionId": "h-section-4",
+      "label": "4.5.2",
+      "text": "Types of Leave:  The Evergreen Mobility Services provides the following types of leave - administrative leave, bereavement leave, holidays, jury duty, leave of absence without pay, military leave (including military family leave), pregnancy disability leave and parental leave, sick leave, school leave, vacation, and voting leave. The Company also provides accommodation for lactating mothers, as required by law, and family and medical leave.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-3",
+      "sectionId": "h-section-4",
+      "label": "4.5.3",
+      "text": "Administrative Leave:  A paid administrative leave benefit is provided annually on July 1. Two days (16 hours) are provided to all employees; an additional three days (24 hours) are provided to employees designated by the Board of Directors as management employees. Administrative leave does not accrue from year to year and, if not used, is forfeited. Other administrative leave, paid or unpaid, may be granted by the General Manager, as appropriate, to address administrative issues.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-4",
+      "sectionId": "h-section-4",
+      "label": "4.5.4",
+      "text": "Bereavement Leave:  Bereavement leave is leave with pay up to five (5) working days that may be granted in the case of the death of an employee’s parent, spouse, domestic partner, sibling, son, daughter, grandparent, or in-law. Bereavement leave days may be taken nonconsecutively. Bereavement leave shall be taken within three (3) months of the death and within 30 days of the first day of the leave, per occurrence. The General Manager may grant an employee bereavement leave for a person whose relationship is essentially similar to the aforesaid relationships, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-5",
+      "sectionId": "h-section-4",
+      "label": "4.5.5",
+      "text": "Holidays:  Regular employees are granted the following holidays with pay, provided they are on paid status the day before and the day after the holiday, subject to applicable law and Company policy:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-bf20831b72",
+      "sectionId": "h-section-4",
+      "text": "New Year’s Day (January 1st)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-c161ea2009",
+      "sectionId": "h-section-4",
+      "text": "Martin Luther King Jr. Day (third Monday in January)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-5a826b838a",
+      "sectionId": "h-section-4",
+      "text": "President’s Day (third Monday in February)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-fb0766b6cf",
+      "sectionId": "h-section-4",
+      "text": "Memorial Day (last Monday in May)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e65f334aee",
+      "sectionId": "h-section-4",
+      "text": "Juneteenth (June 19th)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-db43bcfc1d",
+      "sectionId": "h-section-4",
+      "text": "Independence Day (July 4th)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-20e2ff3cea",
+      "sectionId": "h-section-4",
+      "text": "Labor Day (first Monday in September)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3536d51cdb",
+      "sectionId": "h-section-4",
+      "text": "Veteran’s Day (as designated)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-7b253cd6f1",
+      "sectionId": "h-section-4",
+      "text": "Thanksgiving Day (as designated)",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b38ef34627",
+      "sectionId": "h-section-4",
+      "text": "Friday immediately following Thanksgiving Day",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-439d2b52c2",
+      "sectionId": "h-section-4",
+      "text": "½ day on Christmas Eve",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-f58a0885e6",
+      "sectionId": "h-section-4",
+      "text": "Christmas Day (December 25th)",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-5-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.5.a",
+      "text": "Weekend Holidays:  If a holiday falls on a Saturday or Sunday, the Friday preceding a Saturday holiday or the Monday following a Sunday holiday will be deemed the holiday unless otherwise specified by the General Manager.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-6",
+      "sectionId": "h-section-4",
+      "label": "4.5.6",
+      "text": "Jury Duty:  An employee who is summoned and required to serve as a trial juror is entitled to be absent from the Company as needed to provide such service. Regular employees will be paid their regular salary and will either waive or remit to the Company all jury fees except those specifically allocated for mileage and expenses, consistent with applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-6-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.6.a",
+      "text": "Notification of Jury Summons: Any employee summoned for jury duty must immediately notify the employee’s supervisor.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-6-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.6.b",
+      "text": "Jury Duty Schedule:  Employees must notify their supervisor daily regarding jury duty hours. Where courts have call-in procedures to determine days and hours of service, employees must take advantage of these procedures. If an employee is told by the court not to report, is dismissed, or is told to call in the next day, the employee must report to work, unless otherwise excused or prohibited by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-6-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.6.c",
+      "text": "Witness Leave:  An employee subpoenaed to appear in court in a matter unrelated to the employee’s official capacity, or who is appearing in court in a matter initiated by the employee, shall be permitted time off without pay or use of accrued vacation or administrative leave time but will not be granted jury duty pay.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-7",
+      "sectionId": "h-section-4",
+      "label": "4.5.7",
+      "text": "Leave of Absence Without Pay:  The General Manager may grant a request for unpaid leave of absence for up to three months to a regular employee upon a written request setting forth the reason for the request. The General Manager may, at the General Manager’s discretion, grant or deny a request and may require all applicable paid leaves be exhausted prior to commencement of an unpaid leave, except where prohibited by law. Failure of an employee on leave to report to work promptly at the leave’s expiration without request and approval for an extension, in writing, shall constitute voluntary resignation by the employee, unless otherwise required by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-8",
+      "sectionId": "h-section-4",
+      "label": "4.5.8",
+      "text": "Military Leave:  The Company grants military leave consistent with the provisions of state and federal law, including the Uniformed Services Employment and Reemployment Rights Act (USERRA).",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-8-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.8.a",
+      "text": "Any employee who is a member of the reserve corps of the Armed Forces of the United States, the National Guard, or the Naval Militia is entitled to temporary military leave of absence while engaged in ordered military duty, providing that the period of ordered duty does not exceed the maximum period provided by law, including time to and from that duty.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-8-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.8.b",
+      "text": "Salary and Retirement:  If such employee has been employed by the Company for not less than one full year, whether on temporary or active duty, the employee will receive full salary for the first 30 calendar days of such absence in any fiscal year. As required by law, leave accruals and other seniority-related benefits will continue during paid military leave and contributions as appropriate will be made under the Company’s retirement plan.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-8-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.8.c",
+      "text": "Health Insurance:  Employees on military leave have the option to continue health, dental, and vision insurance as follows - If the leave is less than 31 days, the Company will pay its share and the employee their share of the insurance premiums. If the leave is greater than 31 days, the employee must pay 102% of the full cost of the premiums, as permitted by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-8-d",
+      "sectionId": "h-section-4",
+      "label": "4.5.8.d",
+      "text": "Reinstatement:  Employees will be granted reinstatement to their former position upon the termination of temporary military duty, subject to the provisions of the law, including USERRA reinstatement rights.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9",
+      "sectionId": "h-section-4",
+      "label": "4.5.9",
+      "text": "Pregnancy Disability Leave: Any employee who is physically unable to work because of pregnancy, childbirth, or a related medical condition, is entitled to up to four months of pregnancy disability leave. The leave may be used at one time or on an as-needed basis. To the extent the employee is eligible for Family and Medical Leave under the FMLA, FMLA leave will run concurrently with Pregnancy Disability Leave. Pregnancy Disability Leave does not run concurrently with CFRA.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.9.a",
+      "text": "Basis of Leave:  Pregnancy Disability Leave is for any period(s) of actual disability caused by pregnancy, childbirth, or related medical conditions. Time needed for prenatal care, severe morning sickness, doctor-ordered bed rest, childbirth, and recovery from child birth, are all conditions covered by this leave.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.9.b",
+      "text": "Notice of Need for Leave and Return from Leave:  If possible, an employee must provide the Company at least 30 days’ advanced notice of the date for which the Pregnancy Disability Leave is sought. If 30 days’ notice is not possible due to a change in circumstances or a medical emergency, notice must be given as soon as is practical. If the employee is able to return earlier than agreed, the employee will be reinstated within two business days of notice provided to the Company, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.9.c",
+      "text": "Use of Paid Leave Benefits:  Pregnancy Disability Leave is unpaid. However, employees may elect to use accrued sick leave prior to commencing unpaid leave. Employees may also use accrued vacation or administrative leave during Pregnancy Disability Leave, to the extent permitted by law and Company policy.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9-d",
+      "sectionId": "h-section-4",
+      "label": "4.5.9.d",
+      "text": "Reasonable Accommodation if Requested:  An employee may request reasonable accommodation upon written advice from the employee’s doctor, and the accommodation will be provided if possible, including transfer to a less strenuous or hazardous position for the duration of the pregnancy, consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-9-e",
+      "sectionId": "h-section-4",
+      "label": "4.5.9.e",
+      "text": "Parental Leave:  After the employee’s pregnancy disability ends, the employee may be eligible for parental leave to care for and bond with the newborn, pursuant to the California Family Rights Act (CFRA) as outlined in the Family and Medical Leave policy at the end of this section.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10",
+      "sectionId": "h-section-4",
+      "label": "4.5.10",
+      "text": "Sick Leave:  Sick leave is leave from work, with pay, which may be granted to an employee because of bona fide illness or injury to the employee, to a family member or domestic partner, or for medical appointments to the extent such appointment(s) cannot be scheduled outside the work day. Sick leave may also be used for any other purposes permitted by California law, including but not limited to diagnosis, care, or treatment of an existing health condition, preventive care, or uses related to domestic violence, sexual assault, or stalking as detailed in subsection 4.5.10.c.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.a",
+      "text": "Eligibility for Sick Leave:  Regular employees are entitled to earn sick leave. Regular part-time employees and temporary earn sick leave on a pro-rata basis. Employees may use accrued sick leave as soon as it becomes available, consistent with Company policy. No waiting period is imposed unless required by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.b",
+      "text": "Accrual of Sick Leave:  12 days (96 hours) accrue annually in the first two years of employment (pro-rata rate of .0462 hours per hour worked). At the beginning of the third year of employment, and every year thereafter, nine days (72 hours) accrue (pro-rata rate of .0346 hours per hour worked). Unused sick leave may accrue without limit. An employee does not receive payment of unused accumulated sick leave upon separation from employment or retirement.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-7299987674",
+      "sectionId": "h-section-4",
+      "text": "The accrual system described in this section is intended to meet or exceed the minimum accrual standards of Labor Code §246 (1 hour per 30 hours worked or an equivalent alternative accrual method). In accordance with applicable laws, all eligible employees shall be entitled to use at least forty (40) hours or five (5) days of paid sick leave per year. The Company may limit an employee’s total accrual of paid sick leave to no more than eighty (80) hours or ten (10) days. Accruals in excess of the minimum required amount will continue as described above.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.c",
+      "text": "Employee Sick Leave Use:  When an employee is unable to come to work because of bona fide injury or illness, he or she may use sick leave up to the total number of hours accumulated. For absences of three consecutive days or fewer, employees will not be required to provide medical certification unless permitted by California law. For longer absences, reasonable documentation may be required. Leave under this policy may also be used for employees who are the victims of domestic violence, sexual assault or stalking",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-d",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.d",
+      "text": "Sick Leave Use for Family:  Employees are entitled to use up to one-half of the employee’s annual sick leave accrual to attend to the illness of an immediate family member. \"Family member\" for purposes of this policy includes spouses, registered domestic partners, children (regardless of age), parents (including step-parents and parents-in-law), grandparents, grandchildren, siblings, or a designated person as allowed by CA Labor Code §245.5. Employees may designate one such person per 12-month period. Additional sick leave may be authorized to be used on a case by case basis.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-e",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.e",
+      "text": "Notification of Illness or Injury Preventing Work Attendance:  When an employee is unable to report for duty due to the employee’s own illness or that of a designated family member, the employee must notify their supervisor as soon as possible, but no later than the beginning of the work period, to report the intended use of sick leave and the reason for the absence. Employees will not be denied the right to use accrued sick leave due to non-compliance with notice requirements when advance notice is not feasible.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-f",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.f",
+      "text": "Sick Leave Use for Industrial Injury:  Employees are entitled to use sick leave to supplement Worker’s Compensation temporary disability payments for a bona fide occupational injury.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-g",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.g",
+      "text": "Anti-Retaliation Protection: No employee will be subject to discipline, discrimination, or retaliation for using accrued sick leave, requesting to use sick leave, filing a complaint regarding sick leave rights, or participating in any related proceeding, consistent with CA Labor Code §246.5.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-10-h",
+      "sectionId": "h-section-4",
+      "label": "4.5.10.h",
+      "text": "Availability of Sick Leave Balances: Employees will receive written notice of available sick leave on each pay stub or in another written form as required by CA Labor Code §246(i).",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-11",
+      "sectionId": "h-section-4",
+      "label": "4.5.11",
+      "text": "School Leave:  Pursuant to California Education Code Section 48900.1, if the teacher of an employee’s child requests the parent’s presence at school for a portion of a school day, the employee must give reasonable notice of such request to his or her supervisor. In such an event, the employee will be provided time off without pay, or may use existing vacation, administrative leave, or compensatory time.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-12",
+      "sectionId": "h-section-4",
+      "label": "4.5.12",
+      "text": "Vacation:  All regular employees are entitled to accrue vacation leave. Regular employees employed on a part-time basis accrue vacation leave on a pro-rata basis.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-12-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.12.a",
+      "text": "Vacation Leave Accrual:  Upon commencement of employment with the Company, employees accrue vacation at the rate of 10 days (80 hours) per year. Upon commencement of the third consecutive year of employment, employees accrue vacation at the rate of 15 days (120 hours) per year. No vacation accrues during an unpaid leave of absence.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-12-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.12.b",
+      "text": "Vacation Leave Use:  Use of vacation leave requires a written request as far in advance as possible and may be authorized up to the number of days accrued, subject to the maintenance of a minimum required workforce, peak workload coverage, and public service standards.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-12-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.12.c",
+      "text": "Limits in Accrual of Vacation Leave:  Employees are encouraged to request and use vacation for their wellbeing and recreation. Accrued vacation balances in excess of three times the annual accrual rate will be paid to the employee in lieu of vacation on the last pay period of the fiscal year.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-12-d",
+      "sectionId": "h-section-4",
+      "label": "4.5.12.d",
+      "text": "Unused Vacation Upon Separation:  An employee who separates employment with the Company, and has accrued unused vacation leave, will be paid for the remaining vacation leave with the final paycheck.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-13",
+      "sectionId": "h-section-4",
+      "label": "4.5.13",
+      "text": "Voting Leave:  If an employee is a registered voter and does not have sufficient time outside of working hours to vote in a statewide election, the employee may, without loss of pay, take time off with pay at the beginning or end of the workday in order to vote. In no event will this time be greater than two hours. The employee must provide at least two days’ notice to his or her supervisor if he/she requires time off to vote.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-14",
+      "sectionId": "h-section-4",
+      "label": "4.5.14",
+      "text": "Lactation Accommodation:  Reasonable amount of break time will be provided to an employee desiring to express breast milk for her infant child. The break time will, if possible, run concurrently with break time already provided. If not, the break time will be unpaid unless other applicable paid leaves are available to the employee. The Company will provide the use of a private location close to the employee’s work area for this break, and will provide refrigeration, if possible, to store expressed milk.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15",
+      "sectionId": "h-section-4",
+      "label": "4.5.15",
+      "text": "Family and Medical Leave:  Family and Medical Leave is provided pursuant to the Federal Family and Medical Leave Act (FMLA) and the California Family Rights Act (CFRA). The Company provides eligible employees with unpaid, job-protected leave for specific family, medical, and military-related reasons.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-91e407ffb0",
+      "sectionId": "h-section-4",
+      "text": "Family and Medical Leave is unpaid but runs concurrently with applicable paid leave(s), as permitted by law and Company policy.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-86fb6317f8",
+      "sectionId": "h-section-4",
+      "text": "Family and Medical Leave may be taken for the following purposes:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-beab0eef19",
+      "sectionId": "h-section-4",
+      "text": "Newborn Children, Adoption, Foster Care – To care for and bond with a newborn child, or for placement of and bonding with an adopted or foster child. Under CFRA, both parents employed by the Company are each entitled to up to 12 weeks of bonding leave.;",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-b725497df3",
+      "sectionId": "h-section-4",
+      "text": "Covered Family Member’s Serious Health Condition – To care for a family member with a serious health condition. For CFRA purposes, “family member” includes: spouse, domestic partner, child (of any age), parent, parent-in-law, grandparent, grandchild, sibling, and a “designated person” identified by the employee annually.;",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-1f234de371",
+      "sectionId": "h-section-4",
+      "text": "Employee’s Own Serious Health Condition – because of a serious health condition that makes the employee unable to perform the functions of the employee’s position;",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-211cf5b204",
+      "sectionId": "h-section-4",
+      "text": "Military Qualifying Exigency Leave– Leave taken for a qualifying exigency arising from the covered active duty or call to covered active duty of  the employee’s spouse, domestic partner, child, or parent who is a covered military member (FMLA Only);",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e0daa0a4e8",
+      "sectionId": "h-section-4",
+      "text": "Military Caregiver Leave – leave for up to 26 workweeks in a single 12-month period to care for a covered servicemember with a serious injury or illness (FMLA Only).",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-a",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.a",
+      "text": "Eligibility for Family and Medical Leave:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-0865874577",
+      "sectionId": "h-section-4",
+      "text": "FMLA Eligibility - an employee must have been employed by the Company for at least 12 months and have actually worked at least 1,250 hours during the 12-month period immediately before the date when the leave begins.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-7ac3cf217b",
+      "sectionId": "h-section-4",
+      "text": "CFRA Eligibility – an employee becomes eligible after 12 months of Company service. The 1,250-hour requirement does not apply under CFRA.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-b",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.b",
+      "text": "Amount of Leave:  Eligible employees are entitled to up to a total of 12 work weeks of leave during a 12-month period, calculated as a rolling 12 month period measured backward from the date leave is taken and updated with each additional leave day taken. For eligible part-time employees, the number of working days that constitute 12 weeks is calculated on a pro-rata basis. Military Caregiver Leave provides up to 26 workweeks of leave in a single 12-month period. Additional exceptions, including those applicable to baby-bonding leave under CFRA, are described below.:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3998b8f1cb",
+      "sectionId": "h-section-4",
+      "text": "4.5.15.b.1\tSpecial Duration of Leave for Birth, Adoption, or Foster Placement:  If leave is requested for the birth, adoption, or foster care placement of a child of the employee, the leave must be concluded within the first year of the birth or placement. In addition, the minimum duration of such leave is two weeks except that an employee is entitled to leave for this purpose for at least one day but less than two weeks duration on up to two occasions. Finally, if both spouses or both domestic partners are employed by the Company and eligible for leave, that leave shall be administered in accordance with applicable law; under the California Family Rights Act (CFRA), each parent is independently entitled to up to twelve (12) workweeks of bonding leave.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3c3f165077",
+      "sectionId": "h-section-4",
+      "text": "4.5.15.b.2\tIntermittent Leave for Serious Health Condition:  Leave may be taken on an intermittent basis (a few days or a few hours at a time) or on a reduced work schedule when medically necessary, as certified by a health care provider, to care for a qualifying family member with a serious health condition or for medically required treatment for the employee. Intermittent or reduced-schedule leave for baby bonding will be administered in accordance with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-c",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.c",
+      "text": "Concurrent Use of Paid Leave:  Employees are required to use available accrued paid leave (such as sick leave or vacation) concurrently with FMLA/CFRA leave to the extent permitted by law and Company policy.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-29fa907771",
+      "sectionId": "h-section-4",
+      "text": "Any leave taken for an FMLA/CFRA-qualifying reason will be designated as such by the Company.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-d",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.d",
+      "text": "Benefits While on Leave:  While on Family and Medical Leave, whether on paid or unpaid status, employees will continue to be covered by health, dental, and vision insurance to the same extent that coverage is provided while the employee is on paid status. The Company will continue its contributions toward  group health benefits during FMLA/CFRA leave on the same terms and conditions as if the employee were actively working, as required by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-e",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.e",
+      "text": "Interaction with Pregnancy Disability Leave (PDL): Pregnancy Disability Leave (PDL) is addressed separately in Section 4.5.9. Leave taken under the Family and Medical Leave Act (FMLA) will run concurrently with PDL to the extent the employee is eligible for FMLA. Leave under the California Family Rights Act (CFRA) does not run concurrently with PDL. Upon conclusion of PDL, eligible employees may take up to twelve (12) workweeks of CFRA leave for baby-bonding.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-f",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.f",
+      "text": "Definitions:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-84f62318a1",
+      "sectionId": "h-section-4",
+      "text": "Child – A biological, adopted, foster, or stepchild; a legal ward; a child of a domestic partner; or a child to whom the employee stands in loco parentis (in the place of a parent). For FMLA purposes, a child under 18, or an adult child incapable of self-care due to disability, qualifies. For CFRA purposes, a child of any age qualifies.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-4612f42ba7",
+      "sectionId": "h-section-4",
+      "text": "Parent(s) – A biological, adoptive, foster, and stepparents; legal guardians; and individuals who stood in loco parentis (in place of the parent). For CFRA purposes, parent-in-law is also included.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-13eab0871c",
+      "sectionId": "h-section-4",
+      "text": "Spouse – A partner to whom the employee is legally married under state or federal law.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-f587a2ee3c",
+      "sectionId": "h-section-4",
+      "text": "Domestic Partner – Is defined under California Family Code section 297.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-cdf7e98ac7",
+      "sectionId": "h-section-4",
+      "text": "Designated Person (CFRA) – An individual identified by the employee for whom the employee may use CFRA leave. The employee may identify one designated person per 12-month period.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-dcdea75670",
+      "sectionId": "h-section-4",
+      "text": "Serious Health Condition – An illness, injury, impairment, or physical or mental condition that involves inpatient care or continuing treatment by a health care provider, as defined under FMLA and CFRA regulations.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-728f47b258",
+      "sectionId": "h-section-4",
+      "text": "Health Care Provider – Defined under the FMLA and CFRA regulations and includes all licensed professionals authorized to diagnose, treat, or supervise treatment of a serious health condition, consistent with 29 C.F.R. § 825.125 and Government Code § 12945.2.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-15-g",
+      "sectionId": "h-section-4",
+      "label": "4.5.15.g",
+      "text": "Application for Family and Medical Leave: Employees are required to provide notice of the need for CFRA/FMLA leave as soon as practicable of their need for leave. When the need for leave is foreseeable, at least 30 days’ advance notice is required. When the need for leave is not foreseeable, notice must be provided as soon as practicable under the circumstances.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-36071e2cae",
+      "sectionId": "h-section-4",
+      "text": "When leave is requested for the serious health condition of the employee or a covered family member, the employee must provide medical certification consistent with FMLA/CFRA requirements, including information sufficient to establish the condition and the anticipated duration.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-a47f73a9ae",
+      "sectionId": "h-section-4",
+      "text": "If intermittent or reduced-schedule leave is requested, the medical certification must state that such a schedule is medically necessary.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3b71c36aa3",
+      "sectionId": "h-section-4",
+      "text": "For leave requested to care for a designated person under CFRA, the Company may require a simple written statement identifying the designated person and describing the qualifying relationship.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-5-16",
+      "sectionId": "h-section-4",
+      "label": "4.5.16",
+      "text": "Reproductive Loss Leave: Eligible employees may take up to five (5) days of job-protected leave following a reproductive loss event, as defined by law. Reproductive loss leave may be taken for a miscarriage, stillbirth, unsuccessful assisted reproduction, failed adoption, or failed surrogacy. Leave under this section must be taken within three (3) months of the reproductive loss event, except as otherwise permitted by law. Reproductive loss leave may be unpaid; however, employees may use any accrued and available paid leave otherwise available to them, including sick leave, vacation, or other paid leave, consistent with applicable law and Company policy. The Company will maintain the confidentiality of reproductive loss leave requests and any related information to the extent required by law.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-6",
+      "sectionId": "h-section-4",
+      "label": "4.6",
+      "title": "Personnel Records and Files",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-1",
+      "sectionId": "h-section-4",
+      "label": "4.6.1",
+      "text": "Official Personnel File:  The Company will maintain an official personnel file for each of its employees. A personnel file will contain material that is necessary and relevant for the administration of human resources and the employee-employer relationship. The employee will have received or provided all information contained in the personnel file. Personnel files are the property of the Company and access to the information they contain is restricted. Employee medical information will not be contained in the official personnel file.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-2",
+      "sectionId": "h-section-4",
+      "label": "4.6.2",
+      "text": "Confidential Personnel File:  The Company will maintain a confidential personnel file for each of its employees separate from the official personnel file in which any individually identifiable information regarding an employee’s medical history, mental or physical condition, or treatment will be stored. This includes information obtained from pre-employment medical examinations, fitness for duty evaluations, workers compensation claims, verification of disability status, and drug and alcohol testing reports. Access to the information contained is restricted. Managers may only be informed regarding necessary restrictions on the work or duties of the employee and necessary accommodations. The Company will release medical information only with the employee’s written authorization.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-3",
+      "sectionId": "h-section-4",
+      "label": "4.6.3",
+      "text": "Inspection of Personnel Files:  Employees have the right to inspect and receive copies of their personnel records in accordance with applicable law. Requests to inspect or copy personnel records must be submitted in writing to the Company’s human resources representative. Inspection will be permitted within the timeframes required by law and will be conducted in the presence of a management employee or Company-designated human resources representative. Upon request, employees may obtain copies of the materials subject to inspection, and copying fees may be charged as permitted by law.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-9dcf347942",
+      "sectionId": "h-section-4",
+      "text": "The Company may preclude inspection or copying of records exempt from disclosure, including confidential supervisory notes (see Section 4.6.6) and materials excluded by law, such as certain background or other pre-employment information, and materials relating to confidential investigations. Personnel records subject to inspection/copy include records relating to the employee’s performance, including any education or training records maintained by the Company.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-4",
+      "sectionId": "h-section-4",
+      "label": "4.6.4",
+      "text": "Employee Data:  Employees must ensure that the Company is apprised of their current address and personal phone numbers and that all legally required documentation is kept up to date and on file in their personnel file and employee records. Changes in marital status, birth, or death or any changes that affect benefits must also be communicated to the Company within 30 days of the qualifying event.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-5",
+      "sectionId": "h-section-4",
+      "label": "4.6.5",
+      "text": "Requests for References and Release of Information in Personnel Files:  All requests for verification of employment or for reference checks concerning any current or former employee will be granted only with the employee’s written consent to release the information. No such consent is needed for release of the following limited information, however: job title, dates of employment, and salary upon departure or current salary range. Response to reference checks will be made only by the General Manager or his/her specific designee.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-6-6",
+      "sectionId": "h-section-4",
+      "label": "4.6.6",
+      "text": "Supervisor’s Working Folder:  In order to provide the highest quality feedback and to remember occurrences and situations relevant to job performance, supervisors are encouraged to maintain notes about employee performance throughout the year. This information, exclusively for the use of the supervisor in the performance of his or her responsibilities, is not available to be viewed by employees. The information will be maintained in a secure and confidential manner.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-7",
+      "sectionId": "h-section-4",
+      "label": "4.7",
+      "title": "Grievance Procedure",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-1",
+      "sectionId": "h-section-4",
+      "label": "4.7.1",
+      "text": "Definition and Purpose:  A grievance is a dispute involving the interpretation, application, or alleged violation of a specific express term of these policies. The grievance procedure provides a systematic way in which an employee may obtain consideration of a grievance and ensures that every reasonable effort can be made to resolve problems as soon as possible.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-2",
+      "sectionId": "h-section-4",
+      "label": "4.7.2",
+      "text": "Exclusions:  The following are excluded from the definition of a grievance: requests for changes in wages, hours, and working conditions; the content of performance reviews; reclassifications, layoffs, transfers, and denials of reinstatement; the selection and examination process; disciplinary actions or terminations. Nothing in this grievance procedure is intended to limit, waive, or replace any rights or remedies provided under state or federal law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-3",
+      "sectionId": "h-section-4",
+      "label": "4.7.3",
+      "text": "Informal Grievance:  Within five working days of the occurrence of the act causing the basis for the grievance, an employee will bring his or her grievance to the attention of the immediate supervisor for resolution. Presentation of an informal grievance is a prerequisite for proceeding further in this process.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-4",
+      "sectionId": "h-section-4",
+      "label": "4.7.4",
+      "text": "Formal Grievance:  If the employee believes the informal grievance has not been resolved, within 14 calendar days of the meeting he or she may initiate a formal grievance. The formal grievance must be submitted in writing to the General Manager. Failure to file within this time period shall constitute a waiver of the right to proceed. The formal grievance must contain the following information:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-61bdeca10e",
+      "sectionId": "h-section-4",
+      "text": "Name and classification of the grievant.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-78334fcfe9",
+      "sectionId": "h-section-4",
+      "text": "A clear statement of the nature of the grievance, including the date and location of the occurrence of the action giving rise to the grievance.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-13a181489a",
+      "sectionId": "h-section-4",
+      "text": "The specific policy alleged to have been violated.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-f91fb80932",
+      "sectionId": "h-section-4",
+      "text": "The date upon which the informal discussion with the supervisor took place.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-819b51056f",
+      "sectionId": "h-section-4",
+      "text": "The remedy requested.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-c082f9abba",
+      "sectionId": "h-section-4",
+      "text": "The date the formal grievance is being submitted.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e9ba0af493",
+      "sectionId": "h-section-4",
+      "text": "The signature of the grievant.",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-e843797aff",
+      "sectionId": "h-section-4",
+      "text": "The name of a representative if the grievant wishes to have a representative in the formal grievance process.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-5",
+      "sectionId": "h-section-4",
+      "label": "4.7.5",
+      "text": "Response to Formal Grievance:  Within three calendar weeks after a formal grievance is filed, the General Manager or his or her designee will investigate the grievance and provide a decision. If longer time is required, the General Manager will so inform the grievant within the three calendar weeks. At the General Manager’s discretion an informal hearing or meeting involving one or both parties to the dispute may be conducted. The decision of the General Manager is binding for purposes of this grievance procedure.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-6",
+      "sectionId": "h-section-4",
+      "label": "4.7.6",
+      "text": "No Amendments:  There will be no amendments of a grievance from one step to the next without the approval in writing of both parties.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-7-7",
+      "sectionId": "h-section-4",
+      "label": "4.7.7",
+      "text": "No Retaliation:  Employees will not be penalized or retaliated against in any way for using the grievance procedure or for testifying as a witness in a grievance proceeding.",
+      "level": 2
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-8",
+      "sectionId": "h-section-4",
+      "label": "4.8",
+      "title": "Reasonable Accommodation",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-1",
+      "sectionId": "h-section-4",
+      "label": "4.8.1",
+      "text": "General:  The Company is committed to the fair and equal employment of people with disabilities. The Company will reasonably accommodate qualified individuals with disabilities unless the accommodation would impose an undue hardship on the Company. An employee or applicant may request reasonable accommodation at any time, and the Company may also initiate the interactive process when it becomes aware of a potential need for accommodation.. The Company will also provide reasonable accommodation to employees who are victims of domestic violence, sexual assault, or stalking to ensure their safety at work as required by law. Reasonable accommodation also includes accommodation for sincerely held religious beliefs, observances, and practices, consistent with applicable law. The Company will engage in a timely, good faith, interactive process with qualified employees requesting accommodation in order to determine appropriate and reasonable accommodation if possible.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-2",
+      "sectionId": "h-section-4",
+      "label": "4.8.2",
+      "text": "Process for Requesting Reasonable Accommodation for a Disability",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-2-a",
+      "sectionId": "h-section-4",
+      "label": "4.8.2.a",
+      "text": "Employee Request for Accommodation: An employee who believes he or she is a qualified individual with a disability and requires accommodation may submit a written request for reasonable accommodation to the Company’s human resources representative. The request must include the following information:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-bad262e4bd",
+      "sectionId": "h-section-4",
+      "text": "Why the employee believes the protections of this policy apply, including whether it is a protected disability, there is a record of having a protected disability, or he/she is regarded as having a disability;",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-ede8d28102",
+      "sectionId": "h-section-4",
+      "text": "Whether the accommodation is needed to perform the essential functions of the job or is needed so the individual can experience the same benefits and privileges as all other similarly situated employees;",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-61bbcf4915",
+      "sectionId": "h-section-4",
+      "text": "What accommodation is requested, if known; and",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-889ef892e7",
+      "sectionId": "h-section-4",
+      "text": "The employee should be prepared to provide documentation of the disability if requested and consistent with applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-2-b",
+      "sectionId": "h-section-4",
+      "label": "4.8.2.b",
+      "text": "Interactive Process: Once the possible need for reasonable accommodation arises, either at the employee’s request or by the Company’s knowledge of the employee’s disability, the General Manager or his/her designee will in a timely manner:",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-78d015b512",
+      "sectionId": "h-section-4",
+      "text": "Review the purpose and essential functions of the employee’s job; and",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-31e0938ef5",
+      "sectionId": "h-section-4",
+      "text": "Meet with the employee to:",
+      "level": 3
+    },
+    {
+      "kind": "list_item",
+      "id": "li-a-ascertain-the-precise-job-related-limitations-imposed-by-the-disability",
+      "sectionId": "h-section-4",
+      "label": "a.",
+      "text": "ascertain the precise job-related limitations imposed by the disability and how those limitations would be overcome with a reasonable accommodation; and",
+      "level": 3
+    },
+    {
+      "kind": "list_item",
+      "id": "li-b-identify-the-possible-reasonable-accommodations-and-assess-the-effective",
+      "sectionId": "h-section-4",
+      "label": "b.",
+      "text": "identify the possible reasonable accommodations and assess the effectiveness of each in enabling the employee to perform the essential functions of the job; and",
+      "level": 3
+    },
+    {
+      "kind": "list_item",
+      "id": "li-c-understand-the-preferences-of-the-employee-and-the-reasons-therefore",
+      "sectionId": "h-section-4",
+      "label": "c.",
+      "text": "understand the preferences of the employee, and the reasons therefore.",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-1983ce57d8",
+      "sectionId": "h-section-4",
+      "text": "Documentation of the disability and medical confirmation of the limitations may be required to the extent provided by law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-2-c",
+      "sectionId": "h-section-4",
+      "label": "4.8.2.c",
+      "text": "Evaluation and Implementation of Accommodation Requests: Unless undue hardship is created for the Company, the General Manager or the General Manager’s designee will select and implement the reasonable accommodation most appropriate for the Company and in consideration of the employee’s preferences and reasons therefor. Undue hardship may include undue cost, unavailable resources, substantial operational disruption, or the need to fundamentally alter the nature of the business as defined under applicable law.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-2-d",
+      "sectionId": "h-section-4",
+      "label": "4.8.2.d",
+      "text": "Implementation and Follow-Up: The employee will be notified in writing of the Company’s decision, and the duration of the accommodation, if made. If further discussion is desired, the employee may request a follow-up meeting with the General Manager or designee.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-3",
+      "sectionId": "h-section-4",
+      "label": "4.8.3",
+      "text": "Process for Requesting Reasonable Accommodation for the Safety of a Victim of Domestic Violence, Sexual Assault, and/or Stalking:",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-3-a",
+      "sectionId": "h-section-4",
+      "label": "4.8.3.a",
+      "text": "Interactive Process and Identification of Safety Accommodations: Once the Company becomes aware of an employee’s status as a victim of domestic violence, sexual assault, or stalking, and the employee requests a reasonable accommodation to ensure his or her safety at work, the General Manager or his or her designee will",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-d0f5373710",
+      "sectionId": "h-section-4",
+      "text": "Meet with the employee to identify the nature of the threat to the employee and explore possible reasonable accommodations that might include, but are not limited to, installing a lock, changing the employee’s work telephone and/or workstation, or modifying the employee’s work schedule; and",
+      "level": 3
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8ad905c8c8",
+      "sectionId": "h-section-4",
+      "text": "Select and implement the reasonable accommodation most appropriate without undue hardship for the Company to ensure the safety of the employee at work.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-3-b",
+      "sectionId": "h-section-4",
+      "label": "4.8.3.b",
+      "text": "Written Notice and Follow-Up: The employee will be notified in writing of the Company’s decision, and the duration of the accommodation, if made. If further discussion is desired, the employee may request a follow-up meeting with the General Manager or designee.",
+      "level": 3
+    },
+    {
+      "kind": "subheading",
+      "id": "h-4-8-4",
+      "sectionId": "h-section-4",
+      "label": "4.8.4",
+      "title": "Process for Requesting Reasonable Accommodation in the Hiring Process",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-4-a",
+      "sectionId": "h-section-4",
+      "label": "4.8.4.a",
+      "text": "Applicant Request for Accommodation: A job applicant who requires accommodation in order to participate in the hiring process should submit an accommodation request with the employment application or at any other time during the selection process.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-4-b",
+      "sectionId": "h-section-4",
+      "label": "4.8.4.b",
+      "text": "Interactive Process with the Applicant: The Company’s human resources representative will contact the applicant to discuss the needed accommodation and possible alternatives.",
+      "level": 3
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-8-4-c",
+      "sectionId": "h-section-4",
+      "label": "4.8.4.c",
+      "text": "Approval and Provision of Accommodation: If accommodation is reasonable and is approved, the human resources representative will take the necessary steps to see that the accommodation is provided.",
+      "level": 3
+    },
+    {
+      "kind": "heading",
+      "id": "h-4-9",
+      "sectionId": "h-section-4",
+      "label": "4.9",
+      "title": "Employee Development and Training",
+      "level": 1
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-1",
+      "sectionId": "h-section-4",
+      "label": "4.9.1",
+      "text": "General: The Company supports employee development activities that enhance job-related knowledge, skills, abilities, and professional growth, and that support organizational effectiveness and succession planning. The Company’s Employee Development Policy (HR-04) is incorporated by reference into this Manual. HR-04 establishes the Company’s guidelines for employee training, development opportunities, and related administrative procedures. In the event of a conflict between this Manual and HR-04 on employee development and training matters, HR-04 shall control, subject to applicable law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-2",
+      "sectionId": "h-section-4",
+      "label": "4.9.2",
+      "text": "Eligible Activities: Employee development activities may include, but are not limited to:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-70abc2f373",
+      "sectionId": "h-section-4",
+      "text": "Job-related training or coursework",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-276a596020",
+      "sectionId": "h-section-4",
+      "text": "Professional conferences or seminars",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-3c61f102a2",
+      "sectionId": "h-section-4",
+      "text": "Continuing education required to maintain licenses or certifications",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-0ccfb6d8e1",
+      "sectionId": "h-section-4",
+      "text": "Professional association memberships",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-76edacaee7",
+      "sectionId": "h-section-4",
+      "text": "Leadership or supervisory development programs",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-3",
+      "sectionId": "h-section-4",
+      "label": "4.9.3",
+      "text": "Eligibility and Approval: Participation in employee development activities is subject to prior approval and is not an entitlement. Approval authority rests with the General Manager or designee, taking into consideration:",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-361eaeacee",
+      "sectionId": "h-section-4",
+      "text": "Relevance to the employee’s current position or anticipated career development",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-8a6760d2a6",
+      "sectionId": "h-section-4",
+      "text": "Operational needs of the Company",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-705caf2077",
+      "sectionId": "h-section-4",
+      "text": "Availability of funding",
+      "level": 2
+    },
+    {
+      "kind": "paragraph",
+      "id": "p-7a7e6a8a70",
+      "sectionId": "h-section-4",
+      "text": "Equitable access among similarly situated employees",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-4",
+      "sectionId": "h-section-4",
+      "label": "4.9.4",
+      "text": "Compensation and Work Time: Attendance at approved employee development activities during scheduled work hours will be considered time worked. Attendance outside of scheduled work hours will not be compensable unless required by law.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-5",
+      "sectionId": "h-section-4",
+      "label": "4.9.5",
+      "text": "Costs and Reimbursement: The Company may pay or reimburse reasonable costs associated with approved employee development activities, including registration fees, materials, and travel expenses, subject to Company policy and budgetary limits.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-6",
+      "sectionId": "h-section-4",
+      "label": "4.9.6",
+      "text": "Licenses, Certifications, and Professional Memberships: Where a license or certification is required as a condition of employment, the Company may reimburse reasonable renewal costs upon approval. Professional memberships may be approved when they directly support the employee’s job duties or professional development.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-7",
+      "sectionId": "h-section-4",
+      "label": "4.9.7",
+      "text": "No Guarantee of Advancement: Participation in employee development activities does not guarantee promotion, reclassification, or salary increase.",
+      "level": 2
+    },
+    {
+      "kind": "subentry",
+      "id": "b-4-9-8",
+      "sectionId": "h-section-4",
+      "label": "4.9.8",
+      "text": "Relationship to Performance Planning: Employee development goals may be identified through the performance planning and review process described in Section 4.3.",
+      "level": 2
+    }
+  ]
+}

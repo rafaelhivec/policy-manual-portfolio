@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Evergreen Mobility - Personnel Policy and Procedures</title>
+  <meta name="description" content="Personnel Policies and Procedures (prototype)" />
+  <link rel="icon" type="image/png" href="assets/favicon.png?v=841" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=841" />
+</head>
+<body>
+  <a class="skip-link" href="#doc">Skip to document</a>
+
+  <!-- Header (simplified, brand-aligned) -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand-link" href="#">
+        <img class="brand-logo" src="assets/company-logo.png" alt="Evergreen Mobility" />
+      </a>
+
+      <div class="header-title">
+        <div class="header-name">Personnel Policies and Procedures</div>
+        <div class="header-tag">Web viewer + KweenBee Q&amp;A</div>
+      </div>
+</div>
+  </header>
+
+  <main class="shell">
+    <!-- Left: TOC (own scrollbar) -->
+    <aside class="panel toc" aria-label="Table of contents">
+      <div class="panel-head">
+        <h2>Contents</h2>
+        <p class="muted">You start on the cover. Select a section to view.</p>
+      </div>
+      <div id="toc" class="panel-body"></div>
+    </aside>
+
+    <!-- Center: Document-first -->
+    <section class="panel doc" aria-label="Policy document">
+      <div class="panel-head doc-head">
+        <div>
+          <h1 id="docTitle">Personnel Policies and Procedures</h1>
+          <p class="muted" id="docMeta">Evergreen Mobility · Web viewer</p>
+        </div>
+        <div class="doc-actions">
+          <button id="goCover" class="btn btn-ghost" type="button">Cover</button>
+          <button id="goTop" class="btn btn-ghost" type="button">Top</button>
+        </div>
+      </div>
+      <div id="doc" class="panel-body doc-body" tabindex="-1" aria-label="Document text"></div>
+    </section>
+
+    <!-- Right: AI chat -->
+    <aside class="panel chat" aria-label="Ask AI about the policy">
+      <div class="panel-head">
+        <h2>KweenBee</h2>
+        <p class="muted">
+          KweenBee is our AI chatbot. Answers to questions are based on this document only. You can ask about any part of the policy. This version is limited to <strong>5 questions/day</strong>.
+        </p>
+      </div>
+
+      <div class="panel-body chat-body">
+        <div class="chat-config">
+          <label>
+            KweenBee access key
+            <input id="prototypeKey" type="password" placeholder="Set once, then stored in this browser" />
+          </label>
+          <div class="chat-usage">
+            <span id="usageText" class="muted">Daily usage: —</span>
+          </div>
+          <div id="viewText" class="muted">Currently viewing: Cover page</div>
+        </div>
+
+        <div id="chatLog" class="chat-log" aria-live="polite"></div>
+
+        <form id="chatForm" class="chat-form">
+          <input id="question" type="text" placeholder="Ask KweenBee a question about the personnel policy…" required />
+          <button class="btn" type="submit">Ask</button>
+        </form>
+
+        <p class="fineprint strong-disclaimer">Internal HR Support Tool — Verification Required: This chatbot provides AI-generated policy guidance for internal HR use only. HR must review and interpret the official policy text and applicable requirements. Do not rely on chatbot responses as the sole basis for any decision.</p>
+      </div>
+    </aside>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer hive">
+    <div class="footer-inner hive">
+      <div class="footer-left">© Evergreen Mobility — Personnel Policy and Procedures</div>
+      <div class="footer-right">
+        <span>Designed by The Hive Consulting</span>
+        <img class="hive-logo" src="assets/hive-logo.png" alt="The Hive Consulting logo" />
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js?v=841"></script>
+</body>
+</html>
